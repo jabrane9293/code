@@ -1,2 +1,1 @@
-# DataScience
-Data science code
+Compilation of Python programming code
