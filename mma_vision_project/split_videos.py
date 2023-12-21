@@ -43,8 +43,8 @@ def split_video(input_video_path, output_folder, segment_duration):
 
 
 if __name__ == "__main__":
-    input_video_path = 'dataset/train/eating/Israel Adesanya bulking on meat pie ahead of Alex Pereira fight #ufc #shorts #ufc281.mp4'
-    output_folder = 'dataset/train/eating_adesanya_1'
+    input_video_path = 'dataset/train/eating_source/Israel Adesanya bulking on meat pie ahead of Alex Pereira fight #ufc #shorts #ufc281.mp4'
+    output_folder = 'dataset/train/eating_source'
     segment_duration = 5  # Durée de chaque segment en secondes
 
     split_video(input_video_path, output_folder, segment_duration)
