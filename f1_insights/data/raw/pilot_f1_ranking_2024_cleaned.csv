@@ -1,25 +1,25 @@
-Country;Pilote;Équipe;Bahrain;Saudi Arabia;Australia;Japan;China;United States;Italy;Monaco;Canada;Spain;Austria;United Kingdom;Hungary;Belgium;Netherlands;Italy_2;Azerbaijan;Singapore;United States_2;Mexico;Brazil;United States_3;Qatar;United Arab Emirates
-Netherlands;M. Verstappen;Red Bull;26;25;0;26;33;26;25;8;25;25;18;18;10;12;18;8;10;18;23;8;31;10;26;8
-United Kingdom;L. Norris;McLaren;8;4;15;10;21;25;18;12;18;19;6;15;18;10;26;16;13;25;18;18;16;9;9;25
-Monaco;C. Leclerc;Ferrari;12;16;19;12;17;22;15;25;0;10;2;0;12;15;15;25;18;10;30;16;16;12;22;15
-Australia;O. Piastri;McLaren;4;12;12;4;6;3;12;18;10;6;25;12;25;18;12;18;25;15;10;4;11;6;23;1
-Spain;C. Sainz Jr;Ferrari;15;0;25;15;14;14;10;15;0;8;19;11;8;8;10;12;0;6;25;25;4;15;13;18
-United Kingdom;G. Russell;Mercedes;10;8;0;6;9;4;7;10;15;12;30;0;5;0;6;6;15;12;12;10;15;25;18;10
-United Kingdom;L. Hamilton;Mercedes;6;2;0;2;9;8;8;7;13;15;15;25;15;25;4;10;2;8;3;12;1;18;3;12
-Mexico;S. Pérez;Red Bull;18;18;10;18;21;18;4;0;0;0;4;7;0;6;7;8;4;0;1;6;0;1;1;0
-Spain;F. Alonso;Aston Martin;2;10;4;8;7;2;0;0;0;8;0;0;0;4;0;1;0;8;4;0;0;0;6;2
-France;P. Gasly;Alpine;0;0;0;0;0;0;0;1;2;2;1;0;0;0;2;0;0;0;1;17;0;10;6;0
-Germany;N. Hülkenberg;Haas;0;1;2;0;1;2;0;0;0;0;0;8;8;0;0;0;0;2;5;2;0;4;2;4
-Japan;Y. Tsunoda;Racing Bulls;0;0;6;1;0;7;1;4;0;0;0;0;1;2;0;0;0;0;0;0;6;2;0;0
-Canada;L. Stroll;Aston Martin;1;0;8;0;0;0;0;2;0;6;0;0;0;6;1;0;0;0;0;0;0;0;0;0
-France;E. Ocon;Alpine;0;0;0;0;0;1;0;0;0;1;1;0;0;0;2;0;0;0;0;18;0;0;0;0
-Denmark;K. Magnussen;Haas;0;0;1;0;0;0;0;0;0;0;4;0;0;0;1;0;0;0;2;6;0;0;2;0
-Thailand;A. Albon;Williams;0;0;0;0;0;0;0;2;0;0;0;2;0;0;0;2;6;0;0;0;0;0;0;0
-Australia;D. Ricciardo;Racing Bulls;0;0;0;0;0;5;0;0;4;0;2;0;0;0;1;0;0;0;0;0;0;0;0;0
-United Kingdom;O. Bearman;Haas;0;6;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
-Argentina;F. Colapinto;Williams;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;1;0;0;0;0;0;0
-China;Z. Guanyu;Stake Sauber;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;0;0
-New Zealand;L. Lawson;Racing Bulls;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0
-Finland;V. Bottas;Stake Sauber;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-United States;L. Sargeant;Williams;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Australia;J. Doohan;Alpine;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+ï»¿Country,Pilote,Ã‰quipe,Points,Bahrain,Saudi Arabia,Australia,Japan,China,United States,Italy,Monaco,Canada,Spain,Austria,United Kingdom,Hungary,Belgium,Netherlands,Italy_2,Azerbaijan,Singapore,United States_2,Mexico,Brazil,United States_3,Qatar,United Arab Emirates
+Netherlands,M. Verstappen,Red Bull,437,26,25,,26,33,26,25,8,25,25,18,18,10,12,18,8,10,18,23,8,31,10,26,8
+United Kingdom,L. Norris,McLaren,374,8,4,15,10,21,25,18,12,18,19,6,15,18,10,26,16,13,25,18,18,16,9,9,25
+Monaco,C. Leclerc,Ferrari,356,12,16,19,12,17,22,15,25,,10,2,,12,15,15,25,18,10,30,16,16,12,22,15
+Australia,O. Piastri,McLaren,292,4,12,12,4,6,3,12,18,10,6,25,12,25,18,12,18,25,15,10,4,11,6,23,1
+Spain,C. Sainz Jr,Ferrari,290,15,,25,15,14,14,10,15,,8,19,11,8,8,10,12,,6,25,25,4,15,13,18
+United Kingdom,G. Russell,Mercedes,245,10,8,,6,9,4,7,10,15,12,30,,5,,6,6,15,12,12,10,15,25,18,10
+United Kingdom,L. Hamilton,Mercedes,223,6,2,,2,9,8,8,7,13,15,15,25,15,25,4,10,2,8,3,12,1,18,3,12
+Mexico,S. PÃ©rez,Red Bull,152,18,18,10,18,21,18,4,,,,4,7,,6,7,8,4,,1,6,,1,1,,
+Spain,F. Alonso,Aston Martin,70,2,10,4,8,7,2,,,,8,,,,4,,1,,8,4,,,,6,2
+France,P. Gasly,Alpine,42,,,,,,,,1,2,2,1,,,,2,,,,1,17,,10,6
+Germany,N. HÃ¼lkenberg,Haas,41,,1,2,,1,2,,,,,,8,8,,,,,2,5,2,,4,2,4
+Japan,Y. Tsunoda,Racing Bulls,30,,,6,1,,7,1,4,,,,,1,2,,,,,,,6,2,,
+Canada,L. Stroll,Aston Martin,24,1,,8,,,,,2,,6,,,,6,1,,,,,,,,,
+France,E. Ocon,Alpine,23,,,,,,1,,,,1,1,,,,2,,,,,18,,,,
+Denmark,K. Magnussen,Haas,16,,,1,,,,,,,,4,,,,1,,,,2,6,,,2,
+Thailand,A. Albon,Williams,12,,,,,,,,2,,,,2,,,,2,6,,,,,,,,
+Australia,D. Ricciardo,Racing Bulls,12,,,,,,5,,,4,,2,,,,1,,,,,,,,,
+United Kingdom,O. Bearman,Haas,7,,6,,,,,,,,,,,,,,1,,,,,,,,
+Argentina,F. Colapinto,Williams,5,,,,,,,,,,,,,,,,4,,1,,,,,
+China,Z. Guanyu,Stake Sauber,4,,,,,,,,,,,,,,,,,,,,,,4,
+New Zealand,L. Lawson,Racing Bulls,4,,,,,,,,,,,,,,,,,,2,,2,,,,
+Finland,V. Bottas,Stake Sauber,0,,,,,,,,,,,,,,,,,,,,,,,,
+United States,L. Sargeant,Williams,0,,,,,,,,,,,,,,,,,,,,,,,,
+Australia,J. Doohan,Alpine,0,,,,,,,,,,,,,,,,,,,,,,,,
