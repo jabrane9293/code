@@ -15,7 +15,7 @@ gp_2024 = ['Bahrain', 'Saudi Arabia', 'Australia', 'Japan', 'China', 'United Sta
            'Italy', 'Monaco', 'Canada', 'Spain', 'Austria', 'United Kingdom', 'Hungary',
            'Belgium', 'Netherlands', 'Italy_2', 'Azerbaijan', 'Singapore', 'United States_2',
            'Mexico', 'Brazil', 'United States_3', 'Qatar', 'United Arab Emirates']
-gp_2025 = ['Australia', 'Japan', 'China', 'Bahrain']
+gp_2025 = ['Australia', 'China', 'Japan', 'Bahrain']
 
 # Remplir les NaN avec 0
 df_2024[gp_2024] = df_2024[gp_2024].fillna(0)
@@ -64,7 +64,7 @@ df_long["Pilote_Equipe_Annee"] = df_long.apply(
 )
 
 # Filtrer les 7 pilotes d'intérêt
-pilotes_cibles = ['L. Hamilton']
+pilotes_cibles = ['L. Hamilton', 'C. Leclerc']
 df_filtered = df_long[df_long["Pilote"].isin(pilotes_cibles)].copy()
 
 # Ordonner les Grand Prix

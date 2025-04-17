@@ -1,11 +1,11 @@
 import pandas as pd
 import os
 
-ROOT_DIR = os.path.dirname(os.path.abspath(__file__))  # src/data/
-PROJECT_ROOT = os.path.abspath(os.path.join(ROOT_DIR, "../../"))  # f1-insights/
+# Détection du chemin racine du projet (en partant du dossier notebooks/)
+NOTEBOOKS_DIR = os.path.dirname(os.path.abspath(__file__))  # chemin vers notebooks/
+PROJECT_ROOT = os.path.abspath(os.path.join(NOTEBOOKS_DIR, ".."))  # <- f1_insights/
 
-
-# Dossiers de sortie
+# Répertoires de destination
 raw_dir = os.path.join(PROJECT_ROOT, "data", "raw")
 processed_dir = os.path.join(PROJECT_ROOT, "data", "processed")
 os.makedirs(raw_dir, exist_ok=True)
@@ -52,7 +52,7 @@ for year, config in races_config.items():
             try:
                 tables = pd.read_html(url)
                 for i, table in enumerate(tables):
-                    # Sauvegarde brut
+                    # Sauvegarde brute
                     filename = f"{year}_{race_id}_{race_name}_{result_type.replace('/', '-')}_table{i+1}.csv"
                     filepath = os.path.join(raw_dir, filename)
                     table.to_csv(filepath, index=False)
@@ -63,7 +63,7 @@ for year, config in races_config.items():
                     table['race_id'] = race_id
                     table['race_name'] = race_name
                     table['result_type'] = result_type
-                    table['table_index'] = i + 1  # Au cas où plusieurs tableaux par page
+                    table['table_index'] = i + 1  # au cas où plusieurs tableaux
 
                     all_dataframes.append(table)
 
@@ -76,6 +76,6 @@ if all_dataframes:
     final_df = pd.concat(all_dataframes, ignore_index=True)
     final_path = os.path.join(processed_dir, "f1_full_results_2024_2025.csv")
     final_df.to_csv(final_path, index=False)
-    print(f"\n✅ Tous les tableaux ont été combinés dans : {final_path}")
+    print(f"\n✅ Tous les tableaux combinés dans : {final_path}")
 else:
     print("\n⚠️ Aucun tableau n’a pu être récupéré.")
