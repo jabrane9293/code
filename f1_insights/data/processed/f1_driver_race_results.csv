@@ -1,0 +1,605 @@
+year,race_id,race_name,Driver,FinalPosition,Team,LapsCompleted,Status,Points,QualiPosition,Q1,Q2,Q3,GridPosition,FastestLapTime,FastestLapSpeed,PitStopCount,Practice1Time,Practice2Time,Practice3Time
+2024,1229,bahrain,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,57,1:31:44.742,26.0,1.0,1:30.031,1:29.374,1:29.179,1.0,1:32.608,210.383,2.0,1:33.238,1:30.851,1:31.062
+2024,1229,bahrain,Sergio PerezPER,2.0,Red Bull Racing Honda RBPT,57,+22.457s,18.0,5.0,1:30.221,1:29.932,1:29.537,5.0,1:34.364,206.468,2.0,1:33.413,1:31.115,1:31.248
+2024,1229,bahrain,Carlos SainzSAI,3.0,Ferrari,57,+25.110s,15.0,4.0,1:29.909,1:29.573,1:29.507,4.0,1:34.507,206.156,2.0,1:33.385,1:30.769,1:30.824
+2024,1229,bahrain,Charles LeclercLEC,4.0,Ferrari,57,+39.669s,12.0,2.0,1:30.243,1:29.165,1:29.407,2.0,1:34.090,207.069,2.0,1:33.268,1:31.113,1:31.094
+2024,1229,bahrain,George RussellRUS,5.0,Mercedes,57,+46.788s,10.0,3.0,1:30.350,1:29.922,1:29.485,3.0,1:35.065,204.946,2.0,1:33.251,1:30.580,1:31.190
+2024,1229,bahrain,Lando NorrisNOR,6.0,McLaren Mercedes,57,+48.458s,8.0,7.0,1:30.143,1:29.941,1:29.614,7.0,1:34.476,206.223,2.0,1:32.901,1:32.608,1:31.118
+2024,1229,bahrain,Lewis HamiltonHAM,7.0,Mercedes,57,+50.324s,6.0,9.0,1:30.451,1:29.718,1:29.710,9.0,1:34.722,205.688,2.0,1:33.302,1:30.374,1:31.452
+2024,1229,bahrain,Oscar PiastriPIA,8.0,McLaren Mercedes,57,+56.082s,4.0,8.0,1:30.531,1:30.122,1:29.683,8.0,1:34.983,205.123,2.0,1:33.113,1:30.784,1:31.210
+2024,1229,bahrain,Fernando AlonsoALO,9.0,Aston Martin Aramco Mercedes,57,+74.887s,2.0,6.0,1:30.179,1:29.801,1:29.542,6.0,1:34.199,206.83,2.0,1:33.193,1:30.660,1:30.965
+2024,1229,bahrain,Lance StrollSTR,10.0,Aston Martin Aramco Mercedes,57,+93.216s,1.0,12.0,1:29.965,1:30.200,,12.0,1:35.632,203.73,2.0,1:33.868,1:30.891,1:31.396
+2024,1229,bahrain,Zhou GuanyuZHO,11.0,Kick Sauber Ferrari,56,+1 lap,0.0,17.0,1:30.757,,,17.0,1:35.458,204.102,2.0,1:33.923,1:32.048,1:32.000
+2024,1229,bahrain,Kevin MagnussenMAG,12.0,Haas Ferrari,56,+1 lap,0.0,15.0,1:30.646,1:30.529,,15.0,1:35.570,203.863,2.0,1:37.477,1:31.764,1:31.671
+2024,1229,bahrain,Daniel RicciardoRIC,13.0,RB Honda RBPT,56,+1 lap,0.0,14.0,1:30.562,1:30.278,,14.0,1:35.163,204.735,2.0,1:32.869,1:31.516,1:31.449
+2024,1229,bahrain,Yuki TsunodaTSU,14.0,RB Honda RBPT,56,+1 lap,0.0,11.0,1:30.481,1:30.129,,11.0,1:35.833,203.303,2.0,1:33.183,1:31.881,1:31.631
+2024,1229,bahrain,Alexander AlbonALB,15.0,Williams Mercedes,56,+1 lap,0.0,13.0,1:30.397,1:30.221,,13.0,1:35.723,203.537,2.0,1:33.583,1:31.333,1:31.965
+2024,1229,bahrain,Nico HulkenbergHUL,16.0,Haas Ferrari,56,+1 lap,0.0,10.0,1:30.566,1:29.851,1:30.502,10.0,1:34.834,205.445,3.0,1:37.938,1:30.884,1:31.278
+2024,1229,bahrain,Esteban OconOCO,17.0,Alpine Renault,56,+1 lap,0.0,19.0,1:30.793,,,19.0,1:36.226,202.473,2.0,1:34.807,1:32.027,1:32.124
+2024,1229,bahrain,Pierre GaslyGAS,18.0,Alpine Renault,56,+1 lap,0.0,20.0,1:30.948,,,20.0,1:34.805,205.508,3.0,1:35.144,1:31.951,1:32.382
+2024,1229,bahrain,Valtteri BottasBOT,19.0,Kick Sauber Ferrari,56,+1 lap,0.0,16.0,1:30.756,,,16.0,1:36.202,202.523,2.0,1:33.354,1:32.001,1:32.096
+2024,1229,bahrain,Logan SargeantSAR,20.0,Williams Mercedes,55,+2 laps,0.0,18.0,1:30.770,,,18.0,1:34.735,205.659,3.0,1:34.213,1:31.715,1:32.125
+2024,1229,bahrain,Note - Verstappen scored an additional point for setting the fastest lap of the race.,,Note - Verstappen scored an additional point for setting the fastest lap of the race.,Note - Verstappen scored an additional point for setting the fastest lap of the race.,Note - Verstappen scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1230,saudi-arabia,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,50,1:20:43.273,25.0,1.0,1:28.171,1:28.033,1:27.472,1.0,1:31.773,242.188,1.0,1:29.659,1:29.158,1:28.412
+2024,1230,saudi-arabia,Sergio PerezPER,2.0,Red Bull Racing Honda RBPT,50,+13.643s,18.0,3.0,1:28.638,1:28.467,1:27.807,3.0,1:32.273,240.876,1.0,1:29.868,1:29.300,1:28.906
+2024,1230,saudi-arabia,Charles LeclercLEC,3.0,Ferrari,50,+18.639s,16.0,2.0,1:28.318,1:28.112,1:27.791,2.0,1:31.632,242.561,1.0,1:30.030,1:29.180,1:28.608
+2024,1230,saudi-arabia,Oscar PiastriPIA,4.0,McLaren Mercedes,50,+32.007s,12.0,5.0,1:28.755,1:28.343,1:28.089,5.0,1:32.310,240.779,1.0,1:30.977,1:29.594,1:29.213
+2024,1230,saudi-arabia,Fernando AlonsoALO,5.0,Aston Martin Aramco Mercedes,50,+35.759s,10.0,4.0,1:28.706,1:28.122,1:27.846,4.0,1:32.387,240.579,1.0,1:29.845,1:28.827,1:29.038
+2024,1230,saudi-arabia,George RussellRUS,6.0,Mercedes,50,+39.936s,8.0,7.0,1:28.749,1:28.448,1:28.316,7.0,1:32.254,240.926,1.0,1:29.939,1:29.057,1:28.964
+2024,1230,saudi-arabia,Oliver BearmanBEA,7.0,Ferrari,50,+42.679s,6.0,11.0,1:28.984,1:28.642,,11.0,1:32.186,241.103,1.0,,,1:29.306
+2024,1230,saudi-arabia,Lando NorrisNOR,8.0,McLaren Mercedes,50,+45.708s,4.0,6.0,1:28.805,1:28.479,1:28.132,6.0,1:31.944,241.738,1.0,1:30.231,1:29.758,1:28.971
+2024,1230,saudi-arabia,Lewis HamiltonHAM,9.0,Mercedes,50,+47.391s,2.0,8.0,1:28.994,1:28.606,1:28.460,8.0,1:31.746,242.26,1.0,1:30.236,1:29.504,1:29.268
+2024,1230,saudi-arabia,Nico HulkenbergHUL,10.0,Haas Ferrari,50,+76.996s,1.0,15.0,1:29.055,DNF,,15.0,1:32.366,240.633,1.0,1:31.411,1:30.077,1:29.675
+2024,1230,saudi-arabia,Alexander AlbonALB,11.0,Williams Mercedes,50,+88.354s,0.0,12.0,1:29.107,1:28.980,,12.0,1:32.307,240.787,1.0,1:30.747,1:29.789,1:29.808
+2024,1230,saudi-arabia,Kevin MagnussenMAG,12.0,Haas Ferrari,50,+105.737s,0.0,13.0,1:29.069,1:29.020,,13.0,1:32.338,240.706,1.0,1:31.577,1:29.985,1:29.485
+2024,1230,saudi-arabia,Esteban OconOCO,13.0,Alpine Renault,49,+1 lap,0.0,17.0,1:29.475,,,17.0,1:33.481,237.763,1.0,1:30.945,1:29.901,1:29.575
+2024,1230,saudi-arabia,Logan SargeantSAR,14.0,Williams Mercedes,49,+1 lap,0.0,19.0,1:29.526,,,19.0,1:33.026,238.926,1.0,1:30.966,1:29.934,
+2024,1230,saudi-arabia,Yuki TsunodaTSU,15.0,RB Honda RBPT,49,+1 lap,0.0,9.0,1:28.988,1:28.564,1:28.547,9.0,1:33.523,237.657,1.0,1:31.036,1:29.666,1:29.572
+2024,1230,saudi-arabia,Daniel RicciardoRIC,16.0,RB Honda RBPT,49,+1 lap,0.0,14.0,1:29.065,1:29.025,,14.0,1:33.323,238.166,1.0,1:30.917,1:30.088,1:29.740
+2024,1230,saudi-arabia,Valtteri BottasBOT,17.0,Kick Sauber Ferrari,49,+1 lap,0.0,16.0,1:29.179,,,16.0,1:32.706,239.751,2.0,1:30.783,1:30.153,1:30.083
+2024,1230,saudi-arabia,Zhou GuanyuZHO,18.0,Kick Sauber Ferrari,49,+1 lap,0.0,,DNF,,,20.0,1:32.208,241.046,1.0,1:31.131,1:29.777,1:30.739
+2024,1230,saudi-arabia,Lance StrollSTR,,Aston Martin Aramco Mercedes,5,DNF,0.0,10.0,1:28.250,1:28.578,1:28.572,10.0,1:35.560,232.591,0.0,1:30.580,1:29.336,1:29.127
+2024,1230,saudi-arabia,Pierre GaslyGAS,,Alpine Renault,1,DNF,0.0,18.0,1:29.479,,,18.0,,,0.0,1:31.046,1:29.528,1:29.546
+2024,1230,saudi-arabia,Note - Leclerc scored an additional point for setting the fastest lap of the race. Perez and Tsunoda received five-second time penalties for unsafe releases. Magnussen received a 10-second time penalty for causing a collision and a 10-second time penalty for leaving the track and gaining an advantage.,,Note - Leclerc scored an additional point for setting the fastest lap of the race. Perez and Tsunoda received five-second time penalties for unsafe releases. Magnussen received a 10-second time penalty for causing a collision and a 10-second time penalty for leaving the track and gaining an advantage.,Note - Leclerc scored an additional point for setting the fastest lap of the race. Perez and Tsunoda received five-second time penalties for unsafe releases. Magnussen received a 10-second time penalty for causing a collision and a 10-second time penalty for leaving the track and gaining an advantage.,Note - Leclerc scored an additional point for setting the fastest lap of the race. Perez and Tsunoda received five-second time penalties for unsafe releases. Magnussen received a 10-second time penalty for causing a collision and a 10-second time penalty for leaving the track and gaining an advantage.,,,,,,,,,0.0,,,
+2024,1231,australia,Carlos SainzSAI,1.0,Ferrari,58,1:20:26.843,25.0,2.0,1:16.731,1:16.189,1:16.185,2.0,1:20.031,237.418,2.0,1:18.686,1:17.707,1:16.791
+2024,1231,australia,Charles LeclercLEC,2.0,Ferrari,58,+2.366s,19.0,5.0,1:16.984,1:16.304,1:16.435,4.0,1:19.813,238.066,2.0,1:18.599,1:17.277,1:16.714
+2024,1231,australia,Lando NorrisNOR,3.0,McLaren Mercedes,58,+5.904s,15.0,4.0,1:17.430,1:16.750,1:16.315,3.0,1:19.915,237.762,2.0,1:18.564,1:18.155,1:17.490
+2024,1231,australia,Oscar PiastriPIA,4.0,McLaren Mercedes,58,+35.770s,12.0,6.0,1:17.369,1:16.601,1:16.572,5.0,1:20.199,236.92,2.0,1:18.918,1:18.077,1:17.087
+2024,1231,australia,Sergio PerezPER,5.0,Red Bull Racing Honda RBPT,58,+56.309s,10.0,3.0,1:16.805,1:16.631,1:16.274,6.0,1:20.388,236.363,2.0,1:18.642,1:18.090,1:17.014
+2024,1231,australia,Lance StrollSTR,6.0,Aston Martin Aramco Mercedes,58,+93.222s,8.0,9.0,1:17.376,1:16.780,1:17.072,9.0,1:20.930,234.78,2.0,1:18.667,1:17.822,1:17.341
+2024,1231,australia,Yuki TsunodaTSU,7.0,RB Honda RBPT,58,+95.601s,6.0,8.0,1:17.356,1:16.791,1:16.788,8.0,1:21.134,234.19,2.0,1:18.621,1:18.188,1:17.673
+2024,1231,australia,Fernando AlonsoALO,8.0,Aston Martin Aramco Mercedes,58,+100.992s,4.0,10.0,1:16.991,1:16.710,1:17.552,10.0,1:20.493,236.055,2.0,1:19.716,1:17.912,1:16.997
+2024,1231,australia,Nico HulkenbergHUL,9.0,Haas Ferrari,58,+104.553s,2.0,16.0,1:17.976,,,16.0,1:21.145,234.158,2.0,1:19.604,1:18.702,1:17.941
+2024,1231,australia,Kevin MagnussenMAG,10.0,Haas Ferrari,57,+1 lap,1.0,14.0,1:17.709,1:17.427,,14.0,1:21.082,234.34,2.0,1:19.489,1:19.275,1:17.961
+2024,1231,australia,Alexander AlbonALB,11.0,Williams Mercedes,57,+1 lap,0.0,12.0,1:17.130,1:17.167,,12.0,1:21.618,232.801,2.0,1:19.443,,1:17.759
+2024,1231,australia,Daniel RicciardoRIC,12.0,RB Honda RBPT,57,+1 lap,0.0,18.0,1:18.085,,,18.0,1:21.239,233.887,2.0,1:19.274,1:18.534,1:17.963
+2024,1231,australia,Pierre GaslyGAS,13.0,Alpine Renault,57,+1 lap,0.0,17.0,1:17.982,,,17.0,1:21.090,234.317,2.0,1:19.622,1:18.691,1:18.390
+2024,1231,australia,Valtteri BottasBOT,14.0,Kick Sauber Ferrari,57,+1 lap,0.0,13.0,1:17.543,1:17.340,,13.0,1:21.422,233.361,2.0,1:20.014,1:18.585,1:17.752
+2024,1231,australia,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,57,+1 lap,0.0,19.0,1:18.188,,,19.0,1:21.327,233.634,2.0,1:19.989,1:18.421,1:17.876
+2024,1231,australia,Esteban OconOCO,16.0,Alpine Renault,57,+1 lap,0.0,15.0,1:17.617,1:17.697,,15.0,1:21.354,233.557,3.0,1:19.561,1:18.705,1:17.920
+2024,1231,australia,George RussellRUS,17.0,Mercedes,56,DNF,0.0,7.0,1:17.062,1:16.901,1:16.724,7.0,1:20.284,236.669,2.0,1:18.597,1:17.951,1:16.886
+2024,1231,australia,Lewis HamiltonHAM,,Mercedes,15,DNF,0.0,11.0,1:17.499,1:16.960,,11.0,1:22.444,230.469,1.0,1:18.771,1:18.834,1:16.806
+2024,1231,australia,Max VerstappenVER,,Red Bull Racing Honda RBPT,3,DNF,0.0,1.0,1:16.819,1:16.387,1:15.915,1.0,1:23.115,228.608,0.0,1:18.582,1:17.658,1:16.734
+2024,1231,australia,"Note - Leclerc scored an additional point for setting the fastest lap of the race. Car #2 (Logan Sargeant, Williams) withdrawn. Gasly received a five-second time penalty for crossing the line at the pit exit. Alonso received a drive-through penalty converted to 20-second time penalty for potentially dangerous driving.",,"Note - Leclerc scored an additional point for setting the fastest lap of the race. Car #2 (Logan Sargeant, Williams) withdrawn. Gasly received a five-second time penalty for crossing the line at the pit exit. Alonso received a drive-through penalty converted to 20-second time penalty for potentially dangerous driving.","Note - Leclerc scored an additional point for setting the fastest lap of the race. Car #2 (Logan Sargeant, Williams) withdrawn. Gasly received a five-second time penalty for crossing the line at the pit exit. Alonso received a drive-through penalty converted to 20-second time penalty for potentially dangerous driving.","Note - Leclerc scored an additional point for setting the fastest lap of the race. Car #2 (Logan Sargeant, Williams) withdrawn. Gasly received a five-second time penalty for crossing the line at the pit exit. Alonso received a drive-through penalty converted to 20-second time penalty for potentially dangerous driving.",,,,,,,,,0.0,,,
+2024,1232,japan,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,53,1:54:23.566,26.0,1.0,1:28.866,1:28.740,1:28.197,1.0,1:33.706,223.093,3.0,1:30.056,,1:29.563
+2024,1232,japan,Sergio PerezPER,2.0,Red Bull Racing Honda RBPT,53,+12.535s,18.0,2.0,1:29.303,1:28.752,1:28.263,2.0,1:33.945,222.525,3.0,1:30.237,,1:29.832
+2024,1232,japan,Carlos SainzSAI,3.0,Ferrari,53,+20.866s,15.0,4.0,1:29.513,1:29.099,1:28.682,4.0,1:33.841,222.772,3.0,1:30.269,,1:30.171
+2024,1232,japan,Charles LeclercLEC,4.0,Ferrari,53,+26.522s,12.0,8.0,1:29.338,1:29.196,1:28.786,8.0,1:35.044,219.952,2.0,1:30.558,1:38.760,1:30.383
+2024,1232,japan,Lando NorrisNOR,5.0,McLaren Mercedes,53,+29.700s,10.0,3.0,1:29.536,1:28.940,1:28.489,3.0,1:35.186,219.624,3.0,1:31.240,,1:30.137
+2024,1232,japan,Fernando AlonsoALO,6.0,Aston Martin Aramco Mercedes,53,+44.272s,8.0,5.0,1:29.254,1:29.082,1:28.686,5.0,1:34.726,220.691,3.0,1:30.599,,1:30.082
+2024,1232,japan,George RussellRUS,7.0,Mercedes,53,+45.951s,6.0,9.0,1:29.799,1:29.140,1:29.008,9.0,1:34.404,221.444,3.0,1:30.530,,1:29.918
+2024,1232,japan,Oscar PiastriPIA,8.0,McLaren Mercedes,53,+47.525s,4.0,6.0,1:29.425,1:29.148,1:28.760,6.0,1:34.802,220.514,3.0,1:31.165,1:34.725,1:30.226
+2024,1232,japan,Lewis HamiltonHAM,9.0,Mercedes,53,+48.626s,2.0,7.0,1:29.661,1:28.887,1:28.766,7.0,1:33.952,222.509,3.0,1:30.543,1:35.226,1:30.037
+2024,1232,japan,Yuki TsunodaTSU,10.0,RB Honda RBPT,52,+1 lap,1.0,10.0,1:29.775,1:29.417,1:29.413,10.0,1:36.342,216.989,3.0,1:31.230,1:40.946,1:30.341
+2024,1232,japan,Nico HulkenbergHUL,11.0,Haas Ferrari,52,+1 lap,0.0,12.0,1:29.821,1:29.494,,12.0,1:35.325,219.304,3.0,1:31.958,,1:31.139
+2024,1232,japan,Lance StrollSTR,12.0,Aston Martin Aramco Mercedes,52,+1 lap,0.0,16.0,1:30.024,,,16.0,1:35.798,218.221,4.0,1:32.055,,1:31.342
+2024,1232,japan,Kevin MagnussenMAG,13.0,Haas Ferrari,52,+1 lap,0.0,18.0,1:30.131,,,18.0,1:36.654,216.289,2.0,1:32.803,,1:31.462
+2024,1232,japan,Valtteri BottasBOT,14.0,Kick Sauber Ferrari,52,+1 lap,0.0,13.0,1:29.602,1:29.593,,13.0,1:36.608,216.392,3.0,1:32.054,,1:30.546
+2024,1232,japan,Esteban OconOCO,15.0,Alpine Renault,52,+1 lap,0.0,15.0,1:29.811,1:29.816,,15.0,1:36.232,217.237,3.0,1:31.935,,1:31.022
+2024,1232,japan,Pierre GaslyGAS,16.0,Alpine Renault,52,+1 lap,0.0,17.0,1:30.119,,,17.0,1:36.642,216.315,3.0,1:32.277,,1:31.141
+2024,1232,japan,Logan SargeantSAR,17.0,Williams Mercedes,52,+1 lap,0.0,19.0,1:30.139,,,19.0,1:34.900,220.286,4.0,1:33.204,,1:31.452
+2024,1232,japan,Zhou GuanyuZHO,,Kick Sauber Ferrari,12,DNF,0.0,20.0,1:30.143,,,20.0,1:37.160,215.162,3.0,1:32.638,,1:31.067
+2024,1232,japan,Daniel RicciardoRIC,,RB Honda RBPT,0,DNF,0.0,11.0,1:29.727,1:29.472,,11.0,,,0.0,,1:41.913,1:30.682
+2024,1232,japan,Alexander AlbonALB,,Williams Mercedes,0,DNF,0.0,14.0,1:29.963,1:29.714,,14.0,,,0.0,1:31.943,,1:30.533
+2024,1232,japan,Note - Verstappen scored an additional point for setting the fastest lap of the race.,,Note - Verstappen scored an additional point for setting the fastest lap of the race.,Note - Verstappen scored an additional point for setting the fastest lap of the race.,Note - Verstappen scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1233,china,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,56,1:40:52.554,25.0,1.0,1:34.742,1:33.794,1:33.660,1.0,1:38.406,199.414,2.0,1:36.660,,
+2024,1233,china,Lando NorrisNOR,2.0,McLaren Mercedes,56,+13.773s,18.0,4.0,1:34.842,1:34.460,1:34.165,4.0,1:38.751,198.717,1.0,1:38.630,,
+2024,1233,china,Sergio PerezPER,3.0,Red Bull Racing Honda RBPT,56,+19.160s,15.0,2.0,1:35.457,1:34.026,1:33.982,2.0,1:39.388,197.444,2.0,1:36.690,,
+2024,1233,china,Charles LeclercLEC,4.0,Ferrari,56,+23.623s,12.0,6.0,1:34.797,1:34.399,1:34.289,6.0,1:39.384,197.452,1.0,1:38.090,,
+2024,1233,china,Carlos SainzSAI,5.0,Ferrari,56,+33.983s,10.0,7.0,1:34.970,1:34.368,1:34.297,7.0,1:39.764,196.7,1.0,1:38.284,,
+2024,1233,china,George RussellRUS,6.0,Mercedes,56,+38.724s,8.0,8.0,1:35.084,1:34.609,1:34.433,8.0,1:40.112,196.016,2.0,1:38.806,,
+2024,1233,china,Fernando AlonsoALO,7.0,Aston Martin Aramco Mercedes,56,+43.414s,7.0,3.0,1:35.116,1:34.652,1:34.148,3.0,1:37.810,200.629,3.0,1:38.936,,
+2024,1233,china,Oscar PiastriPIA,8.0,McLaren Mercedes,56,+56.198s,4.0,5.0,1:35.014,1:34.659,1:34.273,5.0,1:39.739,196.749,2.0,1:36.629,,
+2024,1233,china,Lewis HamiltonHAM,9.0,Mercedes,56,+57.986s,2.0,18.0,1:35.573,,,18.0,1:40.835,194.61,2.0,1:38.839,,
+2024,1233,china,Nico HulkenbergHUL,10.0,Haas Ferrari,56,+60.476s,1.0,9.0,1:35.068,1:34.667,1:34.604,9.0,1:40.815,194.649,2.0,1:37.101,,
+2024,1233,china,Esteban OconOCO,11.0,Alpine Renault,56,+62.812s,0.0,13.0,1:35.356,1:35.223,,13.0,1:40.937,194.414,2.0,1:37.213,,
+2024,1233,china,Alexander AlbonALB,12.0,Williams Mercedes,56,+65.506s,0.0,14.0,1:35.384,1:35.241,,14.0,1:40.790,194.697,2.0,1:37.229,,
+2024,1233,china,Pierre GaslyGAS,13.0,Alpine Renault,56,+69.223s,0.0,15.0,1:35.287,1:35.463,,15.0,1:39.198,197.822,3.0,1:39.276,,
+2024,1233,china,Zhou GuanyuZHO,14.0,Kick Sauber Ferrari,56,+71.689s,0.0,16.0,1:35.505,,,16.0,1:38.633,198.955,3.0,1:37.626,,
+2024,1233,china,Lance StrollSTR,15.0,Aston Martin Aramco Mercedes,56,+82.786s,0.0,11.0,1:35.334,1:34.838,,11.0,1:39.444,197.333,4.0,1:36.302,,
+2024,1233,china,Kevin MagnussenMAG,16.0,Haas Ferrari,56,+87.533s,0.0,17.0,1:35.516,,,17.0,1:41.077,194.145,2.0,1:37.118,,
+2024,1233,china,Logan SargeantSAR,17.0,Williams Mercedes,56,+95.110s,0.0,20.0,1:36.358,,,20.0,1:41.000,194.293,2.0,1:38.286,,
+2024,1233,china,Daniel RicciardoRIC,,RB Honda RBPT,33,DNF,0.0,12.0,1:35.443,1:34.934,,12.0,1:40.994,194.304,1.0,1:37.238,,
+2024,1233,china,Yuki TsunodaTSU,,RB Honda RBPT,26,DNF,0.0,19.0,1:35.746,,,19.0,1:41.593,193.158,2.0,1:38.006,,
+2024,1233,china,Valtteri BottasBOT,,Kick Sauber Ferrari,19,DNF,0.0,10.0,1:35.169,1:34.769,1:34.665,10.0,1:41.276,193.763,1.0,1:37.530,,
+2024,1233,china,Note - Alonso scored an additional point for setting the fastest lap of the race. Sargeant received a 10-second time penalty for a Safety Car infringement. Magnussen received a 10-second time penalty for causing a collision.,,Note - Alonso scored an additional point for setting the fastest lap of the race. Sargeant received a 10-second time penalty for a Safety Car infringement. Magnussen received a 10-second time penalty for causing a collision.,Note - Alonso scored an additional point for setting the fastest lap of the race. Sargeant received a 10-second time penalty for a Safety Car infringement. Magnussen received a 10-second time penalty for causing a collision.,Note - Alonso scored an additional point for setting the fastest lap of the race. Sargeant received a 10-second time penalty for a Safety Car infringement. Magnussen received a 10-second time penalty for causing a collision.,,,,,,,,,0.0,,,
+2024,1234,miami,Lando NorrisNOR,1.0,McLaren Mercedes,57,1:30:49.876,25.0,5.0,1:27.913,1:27.871,1:27.594,5.0,1:30.980,214.148,1.0,1:29.495,,
+2024,1234,miami,Max VerstappenVER,2.0,Red Bull Racing Honda RBPT,57,+7.612s,18.0,1.0,1:27.689,1:27.566,1:27.241,1.0,1:31.261,213.488,1.0,1:28.595,,
+2024,1234,miami,Charles LeclercLEC,3.0,Ferrari,57,+9.920s,15.0,2.0,1:28.081,1:27.533,1:27.382,2.0,1:31.084,213.903,1.0,1:32.099,,
+2024,1234,miami,Sergio PerezPER,4.0,Red Bull Racing Honda RBPT,57,+14.650s,12.0,4.0,1:27.772,1:27.839,1:27.460,4.0,1:30.855,214.442,2.0,1:28.868,,
+2024,1234,miami,Carlos SainzSAI,5.0,Ferrari,57,+16.407s,10.0,3.0,1:27.937,1:27.941,1:27.455,3.0,1:30.928,214.27,1.0,1:28.711,,
+2024,1234,miami,Lewis HamiltonHAM,6.0,Mercedes,57,+16.585s,8.0,8.0,1:28.167,1:27.697,1:28.107,8.0,1:31.233,213.554,1.0,1:29.012,,
+2024,1234,miami,Yuki TsunodaTSU,7.0,RB Honda RBPT,57,+26.185s,6.0,10.0,1:28.324,1:28.167,1:28.192,10.0,1:31.682,212.508,1.0,1:29.056,,
+2024,1234,miami,George RussellRUS,8.0,Mercedes,57,+34.789s,4.0,7.0,1:28.159,1:28.095,1:28.067,7.0,1:31.921,211.955,1.0,1:28.784,,
+2024,1234,miami,Fernando AlonsoALO,9.0,Aston Martin Aramco Mercedes,57,+37.107s,2.0,15.0,1:28.453,1:28.427,,15.0,1:31.727,212.404,1.0,1:30.023,,
+2024,1234,miami,Esteban OconOCO,10.0,Alpine Renault,57,+39.746s,1.0,13.0,1:28.209,1:28.371,,13.0,1:32.037,211.688,1.0,1:29.163,,
+2024,1234,miami,Nico HulkenbergHUL,11.0,Haas Ferrari,57,+40.789s,0.0,9.0,1:28.383,1:28.200,1:28.146,9.0,1:31.941,211.909,2.0,1:29.314,,
+2024,1234,miami,Pierre GaslyGAS,12.0,Alpine Renault,57,+44.958s,0.0,12.0,1:27.976,1:28.324,,12.0,1:32.055,211.647,1.0,1:29.175,,
+2024,1234,miami,Oscar PiastriPIA,13.0,McLaren Mercedes,57,+49.756s,0.0,6.0,1:28.032,1:27.721,1:27.675,6.0,1:30.634,214.965,2.0,1:28.700,,
+2024,1234,miami,Zhou GuanyuZHO,14.0,Kick Sauber Ferrari,57,+49.979s,0.0,20.0,1:28.824,,,19.0,1:31.991,211.794,1.0,1:29.445,,
+2024,1234,miami,Daniel RicciardoRIC,15.0,RB Honda RBPT,57,+50.956s,0.0,18.0,1:28.617,,,20.0,1:32.122,211.493,1.0,1:29.178,,
+2024,1234,miami,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,57,+52.356s,0.0,16.0,1:28.463,,,16.0,1:32.098,211.548,2.0,1:29.636,,
+2024,1234,miami,Lance StrollSTR,17.0,Aston Martin Aramco Mercedes,57,+55.173s,0.0,11.0,1:28.177,1:28.222,,11.0,1:31.588,212.726,2.0,1:28.817,,
+2024,1234,miami,Alexander AlbonALB,18.0,Williams Mercedes,57,+76.091s,0.0,14.0,1:28.343,1:28.413,,14.0,1:30.849,214.456,2.0,1:29.393,,
+2024,1234,miami,Kevin MagnussenMAG,19.0,Haas Ferrari,57,+84.683s,0.0,19.0,1:28.619,,,18.0,1:31.774,212.295,3.0,1:29.189,,
+2024,1234,miami,Logan SargeantSAR,,Williams Mercedes,27,DNF,0.0,17.0,1:28.487,,,17.0,1:33.452,208.483,1.0,1:29.891,,
+2024,1234,miami,Magnussen received a 10-second time penalty for causing a collision and a 20-second time penalty for entering the pits during a Safety Car period and not changing tyres. Stroll received a 10-second time penalty for leaving the track and gaining an advantage. Sainz received a five-second time penalty for causing a collision.,,Magnussen received a 10-second time penalty for causing a collision and a 20-second time penalty for entering the pits during a Safety Car period and not changing tyres. Stroll received a 10-second time penalty for leaving the track and gaining an advantage. Sainz received a five-second time penalty for causing a collision.,Magnussen received a 10-second time penalty for causing a collision and a 20-second time penalty for entering the pits during a Safety Car period and not changing tyres. Stroll received a 10-second time penalty for leaving the track and gaining an advantage. Sainz received a five-second time penalty for causing a collision.,Magnussen received a 10-second time penalty for causing a collision and a 20-second time penalty for entering the pits during a Safety Car period and not changing tyres. Stroll received a 10-second time penalty for leaving the track and gaining an advantage. Sainz received a five-second time penalty for causing a collision.,,,,,,,,,0.0,,,
+2024,1235,emilia-romagna,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,63,1:25:25.252,25.0,1.0,1:15.762,1:15.176,1:14.746,1.0,1:20.366,219.898,1.0,1:17.240,1:16.447,1:16.366
+2024,1235,emilia-romagna,Lando NorrisNOR,2.0,McLaren Mercedes,63,+0.725s,18.0,3.0,1:15.915,1:15.371,1:14.837,2.0,1:19.994,220.921,1.0,1:17.602,1:16.980,1:15.829
+2024,1235,emilia-romagna,Charles LeclercLEC,3.0,Ferrari,63,+7.916s,15.0,4.0,1:15.823,1:15.328,1:14.970,3.0,1:19.935,221.084,1.0,1:16.990,1:15.906,1:16.087
+2024,1235,emilia-romagna,Oscar PiastriPIA,4.0,McLaren Mercedes,63,+14.132s,12.0,2.0,1:15.940,1:15.407,1:14.820,5.0,1:19.907,221.162,1.0,1:17.807,1:16.098,1:15.529
+2024,1235,emilia-romagna,Carlos SainzSAI,5.0,Ferrari,63,+22.325s,10.0,5.0,1:16.015,1:15.512,1:15.233,4.0,1:20.220,220.299,1.0,1:17.120,1:16.423,1:16.067
+2024,1235,emilia-romagna,Lewis HamiltonHAM,6.0,Mercedes,63,+35.104s,8.0,8.0,1:16.604,1:15.677,1:15.504,8.0,1:20.331,219.994,1.0,1:17.408,1:16.297,1:16.960
+2024,1235,emilia-romagna,George RussellRUS,7.0,Mercedes,63,+47.154s,7.0,6.0,1:16.107,1:15.671,1:15.234,6.0,1:18.589,224.871,2.0,1:17.094,1:16.311,1:16.095
+2024,1235,emilia-romagna,Sergio PerezPER,8.0,Red Bull Racing Honda RBPT,63,+54.776s,4.0,11.0,1:16.404,1:15.706,,11.0,1:19.686,221.775,1.0,1:17.233,1:16.552,1:16.631
+2024,1235,emilia-romagna,Lance StrollSTR,9.0,Aston Martin Aramco Mercedes,63,+79.556s,2.0,13.0,1:16.458,1:15.992,,13.0,1:20.570,219.342,1.0,1:18.072,1:16.991,1:16.543
+2024,1235,emilia-romagna,Yuki TsunodaTSU,10.0,RB Honda RBPT,62,+1 lap,1.0,7.0,1:15.894,1:15.358,1:15.465,7.0,1:20.936,218.35,1.0,1:17.388,1:16.286,1:16.668
+2024,1235,emilia-romagna,Nico HulkenbergHUL,11.0,Haas Ferrari,62,+1 lap,0.0,10.0,1:15.841,1:15.569,1:15.980,10.0,1:21.700,216.308,1.0,1:21.059,1:16.826,1:16.547
+2024,1235,emilia-romagna,Kevin MagnussenMAG,12.0,Haas Ferrari,62,+1 lap,0.0,18.0,1:16.854,,,18.0,1:21.009,218.153,1.0,,1:17.129,1:16.923
+2024,1235,emilia-romagna,Daniel RicciardoRIC,13.0,RB Honda RBPT,62,+1 lap,0.0,9.0,1:16.060,1:15.691,1:15.674,9.0,1:21.569,216.655,1.0,1:18.142,1:16.967,1:16.560
+2024,1235,emilia-romagna,Esteban OconOCO,14.0,Alpine Renault,62,+1 lap,0.0,12.0,1:16.361,1:15.906,,12.0,1:21.304,217.361,1.0,1:18.612,1:17.008,1:16.481
+2024,1235,emilia-romagna,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,62,+1 lap,0.0,17.0,1:16.834,,,17.0,1:21.016,218.134,1.0,1:19.129,1:17.606,1:17.891
+2024,1235,emilia-romagna,Pierre GaslyGAS,16.0,Alpine Renault,62,+1 lap,0.0,15.0,1:16.015,1:16.381,,15.0,1:21.371,217.183,2.0,1:17.905,1:17.064,1:17.361
+2024,1235,emilia-romagna,Logan SargeantSAR,17.0,Williams Mercedes,62,+1 lap,0.0,,DNF,,,19.0,1:21.229,217.562,1.0,1:19.901,1:17.848,1:16.794
+2024,1235,emilia-romagna,Valtteri BottasBOT,18.0,Kick Sauber Ferrari,62,+1 lap,0.0,16.0,1:16.626,,,16.0,1:21.455,216.959,1.0,1:18.827,1:17.088,1:16.695
+2024,1235,emilia-romagna,Fernando AlonsoALO,19.0,Aston Martin Aramco Mercedes,62,+1 lap,0.0,19.0,1:16.917,,,20.0,1:19.004,223.689,3.0,1:17.867,1:16.838,1:17.339
+2024,1235,emilia-romagna,Alexander AlbonALB,,Williams Mercedes,51,DNF,0.0,14.0,1:16.524,1:16.200,,14.0,1:21.274,217.442,4.0,1:20.050,1:17.135,1:16.470
+2024,1235,emilia-romagna,Note - Russell scored an additional point for setting the fastest lap of the race.,,Note - Russell scored an additional point for setting the fastest lap of the race.,Note - Russell scored an additional point for setting the fastest lap of the race.,Note - Russell scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1236,monaco,Charles LeclercLEC,1.0,Ferrari,78,2:23:15.554,25.0,1.0,1:11.584,1:10.825,1:10.270,1.0,1:15.162,159.83,1.0,1:12.397,1:11.278,1:11.369
+2024,1236,monaco,Oscar PiastriPIA,2.0,McLaren Mercedes,78,+7.152s,18.0,2.0,1:11.500,1:10.756,1:10.424,2.0,1:16.281,157.486,1.0,1:12.198,1:12.366,1:11.901
+2024,1236,monaco,Carlos SainzSAI,3.0,Ferrari,78,+7.585s,15.0,3.0,1:11.543,1:11.075,1:10.518,3.0,1:14.726,160.763,1.0,1:12.954,1:11.962,1:11.979
+2024,1236,monaco,Lando NorrisNOR,4.0,McLaren Mercedes,78,+8.650s,12.0,4.0,1:11.760,1:10.732,1:10.542,4.0,1:15.742,158.606,1.0,1:12.396,1:11.953,1:11.988
+2024,1236,monaco,George RussellRUS,5.0,Mercedes,78,+13.309s,10.0,5.0,1:11.492,1:10.929,1:10.543,5.0,1:15.228,159.69,1.0,1:12.295,1:12.260,1:11.968
+2024,1236,monaco,Max VerstappenVER,6.0,Red Bull Racing Honda RBPT,78,+13.853s,8.0,6.0,1:11.711,1:10.745,1:10.567,6.0,1:14.569,161.101,2.0,1:12.984,1:11.813,1:11.566
+2024,1236,monaco,Lewis HamiltonHAM,7.0,Mercedes,78,+14.908s,7.0,7.0,1:11.528,1:11.056,1:10.621,7.0,1:14.165,161.979,2.0,1:12.169,1:11.466,1:11.710
+2024,1236,monaco,Yuki TsunodaTSU,8.0,RB Honda RBPT,77,+1 lap,4.0,8.0,1:11.852,1:11.106,1:10.858,8.0,1:14.720,160.776,1.0,1:12.875,1:12.349,1:11.991
+2024,1236,monaco,Alexander AlbonALB,9.0,Williams Mercedes,77,+1 lap,2.0,9.0,1:11.623,1:11.216,1:10.948,9.0,1:17.060,155.894,1.0,1:13.425,1:12.257,1:12.180
+2024,1236,monaco,Pierre GaslyGAS,10.0,Alpine Renault,77,+1 lap,1.0,10.0,1:11.714,1:10.896,1:11.311,10.0,1:15.625,158.852,1.0,1:15.574,1:12.750,1:12.144
+2024,1236,monaco,Fernando AlonsoALO,11.0,Aston Martin Aramco Mercedes,76,+2 laps,0.0,14.0,1:12.019,,,14.0,1:17.939,154.135,1.0,1:12.775,1:11.753,1:12.087
+2024,1236,monaco,Daniel RicciardoRIC,12.0,RB Honda RBPT,76,+2 laps,0.0,12.0,1:11.785,1:11.482,,12.0,1:17.172,155.667,1.0,1:12.901,1:12.577,1:12.829
+2024,1236,monaco,Valtteri BottasBOT,13.0,Kick Sauber Ferrari,76,+2 laps,0.0,17.0,1:12.512,,,17.0,1:16.561,156.91,2.0,1:13.248,1:13.057,
+2024,1236,monaco,Lance StrollSTR,14.0,Aston Martin Aramco Mercedes,76,+2 laps,0.0,13.0,1:11.728,1:11.563,,13.0,1:16.710,156.605,3.0,1:12.789,1:12.062,1:12.331
+2024,1236,monaco,Logan SargeantSAR,15.0,Williams Mercedes,76,+2 laps,0.0,15.0,1:12.020,,,15.0,1:15.525,159.062,2.0,1:14.150,1:12.790,1:12.703
+2024,1236,monaco,Zhou GuanyuZHO,16.0,Kick Sauber Ferrari,76,+2 laps,0.0,18.0,1:13.028,,,18.0,1:14.718,160.78,2.0,1:14.570,1:13.773,1:13.830
+2024,1236,monaco,Esteban OconOCO,,Alpine Renault,0,DNF,0.0,11.0,1:11.887,1:11.285,,11.0,,,0.0,1:14.159,1:12.554,1:12.472
+2024,1236,monaco,Sergio PerezPER,,Red Bull Racing Honda RBPT,0,DNF,0.0,16.0,1:12.060,,,16.0,,,0.0,1:13.229,1:12.099,1:11.923
+2024,1236,monaco,Nico HulkenbergHUL,,Haas Ferrari,0,DNF,0.0,,1:11.876,1:11.440,,19.0,,,0.0,1:13.576,1:12.569,1:12.192
+2024,1236,monaco,Kevin MagnussenMAG,,Haas Ferrari,0,DNF,0.0,,1:11.832,1:11.725,,20.0,,,0.0,1:13.390,1:12.473,1:12.216
+2024,1236,monaco,Note - Hamilton scored an additional point for setting the fastest lap of the race.,,Note - Hamilton scored an additional point for setting the fastest lap of the race.,Note - Hamilton scored an additional point for setting the fastest lap of the race.,Note - Hamilton scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1237,canada,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,70,1:45:47.927,25.0,2.0,1:12.360,1:12.549,1:12.000,2.0,1:15.569,207.751,2.0,1:26.502,1:19.311,1:12.923
+2024,1237,canada,Lando NorrisNOR,2.0,McLaren Mercedes,70,+3.879s,18.0,3.0,1:12.959,1:12.201,1:12.021,3.0,1:15.558,207.782,2.0,1:24.435,1:20.843,1:13.293
+2024,1237,canada,George RussellRUS,3.0,Mercedes,70,+4.317s,15.0,1.0,1:13.013,1:11.742,1:12.000,1.0,1:14.895,209.621,3.0,1:28.541,1:16.273,1:12.957
+2024,1237,canada,Lewis HamiltonHAM,4.0,Mercedes,70,+4.915s,13.0,7.0,1:12.851,1:11.979,1:12.280,7.0,1:14.856,209.73,3.0,1:25.970,1:16.908,1:12.549
+2024,1237,canada,Oscar PiastriPIA,5.0,McLaren Mercedes,70,+10.199s,10.0,4.0,1:12.907,1:12.462,1:12.103,4.0,1:16.247,205.904,2.0,1:26.754,1:19.008,1:13.266
+2024,1237,canada,Fernando AlonsoALO,6.0,Aston Martin Aramco Mercedes,70,+17.510s,8.0,6.0,1:13.117,1:12.635,1:12.228,6.0,1:16.303,205.753,2.0,1:33.411,1:15.810,1:13.340
+2024,1237,canada,Lance StrollSTR,7.0,Aston Martin Aramco Mercedes,70,+23.625s,6.0,9.0,1:13.088,1:12.659,1:12.701,9.0,1:16.762,204.523,2.0,1:40.530,1:16.464,1:13.026
+2024,1237,canada,Daniel RicciardoRIC,8.0,RB Honda RBPT,70,+28.672s,4.0,5.0,1:13.240,1:12.572,1:12.178,5.0,1:17.076,203.689,2.0,1:28.582,1:16.731,1:13.279
+2024,1237,canada,Pierre GaslyGAS,9.0,Alpine Renault,70,+30.021s,2.0,15.0,1:13.289,1:12.940,,15.0,1:17.013,203.856,2.0,1:27.584,1:20.789,1:13.737
+2024,1237,canada,Esteban OconOCO,10.0,Alpine Renault,70,+30.313s,1.0,18.0,1:13.435,,,18.0,1:17.012,203.859,1.0,,1:17.417,1:14.075
+2024,1237,canada,Nico HulkenbergHUL,11.0,Haas Ferrari,70,+30.824s,0.0,19.0,1:13.978,,,17.0,1:16.683,204.733,3.0,1:32.826,1:17.903,1:13.777
+2024,1237,canada,Kevin MagnussenMAG,12.0,Haas Ferrari,70,+31.253s,0.0,14.0,1:13.217,1:12.916,,14.0,1:16.499,205.226,4.0,1:29.052,1:16.773,1:13.439
+2024,1237,canada,Valtteri BottasBOT,13.0,Kick Sauber Ferrari,70,+40.487s,0.0,17.0,1:13.366,,,19.0,1:17.250,203.231,1.0,1:27.670,1:17.817,1:13.642
+2024,1237,canada,Yuki TsunodaTSU,14.0,RB Honda RBPT,70,+52.694s,0.0,8.0,1:12.748,1:12.303,1:12.414,8.0,1:17.309,203.075,1.0,1:28.723,1:16.951,1:13.716
+2024,1237,canada,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,69,+1 lap,0.0,20.0,1:14.292,,,20.0,1:17.325,203.033,3.0,,1:19.087,1:18.656
+2024,1237,canada,Carlos SainzSAI,,Ferrari,52,DNF,0.0,12.0,1:13.038,1:12.728,,12.0,1:18.957,198.837,2.0,1:24.763,1:17.722,1:13.570
+2024,1237,canada,Alexander AlbonALB,,Williams Mercedes,52,DNF,0.0,10.0,1:12.896,1:12.485,1:12.796,10.0,1:19.359,197.83,2.0,,1:16.977,1:13.880
+2024,1237,canada,Sergio PerezPER,,Red Bull Racing Honda RBPT,51,DNF,0.0,16.0,1:13.326,,,16.0,1:18.819,199.185,2.0,1:28.058,1:17.041,1:13.342
+2024,1237,canada,Charles LeclercLEC,,Ferrari,40,DNF,0.0,11.0,1:13.107,1:12.691,,11.0,1:26.012,182.528,3.0,1:25.306,1:16.556,1:13.349
+2024,1237,canada,Logan SargeantSAR,,Williams Mercedes,23,DNF,0.0,13.0,1:13.063,1:12.736,,13.0,1:26.484,181.531,0.0,1:36.586,1:17.496,1:13.663
+2024,1237,canada,Note - Hamilton scored an additional point for setting the fastest lap of the race.,,Note - Hamilton scored an additional point for setting the fastest lap of the race.,Note - Hamilton scored an additional point for setting the fastest lap of the race.,Note - Hamilton scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1238,spain,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,66,1:28:20.227,25.0,2.0,1:12.306,1:11.653,1:11.403,2.0,1:17.776,215.557,2.0,1:14.252,1:13.504,1:13.087
+2024,1238,spain,Lando NorrisNOR,2.0,McLaren Mercedes,66,+2.219s,19.0,1.0,1:12.386,1:11.872,1:11.383,1.0,1:17.115,217.405,2.0,1:14.228,1:13.319,1:13.043
+2024,1238,spain,Lewis HamiltonHAM,3.0,Mercedes,66,+17.790s,15.0,3.0,1:12.143,1:11.792,1:11.701,3.0,1:17.809,215.466,2.0,1:14.911,1:13.264,1:13.359
+2024,1238,spain,George RussellRUS,4.0,Mercedes,66,+22.320s,12.0,4.0,1:12.456,1:11.812,1:11.703,4.0,1:18.290,214.142,2.0,1:14.614,1:13.722,1:13.164
+2024,1238,spain,Charles LeclercLEC,5.0,Ferrari,66,+22.709s,10.0,5.0,1:12.257,1:12.038,1:11.731,5.0,1:17.897,215.222,2.0,1:15.434,1:13.597,1:13.050
+2024,1238,spain,Carlos SainzSAI,6.0,Ferrari,66,+31.028s,8.0,6.0,1:12.403,1:11.874,1:11.736,6.0,1:18.539,213.463,2.0,1:14.572,1:13.286,1:13.013
+2024,1238,spain,Oscar PiastriPIA,7.0,McLaren Mercedes,66,+33.760s,6.0,10.0,1:12.460,1:12.011,DNF,9.0,1:17.874,215.286,2.0,1:14.867,1:13.622,1:13.907
+2024,1238,spain,Sergio PerezPER,8.0,Red Bull Racing Honda RBPT,66,+59.524s,4.0,8.0,1:12.477,1:12.054,1:12.061,11.0,1:17.785,215.532,3.0,1:14.692,1:14.081,1:13.723
+2024,1238,spain,Pierre GaslyGAS,9.0,Alpine Renault,66,+62.025s,2.0,7.0,1:12.651,1:12.079,1:11.857,7.0,1:19.045,212.096,2.0,1:15.484,1:13.443,1:13.964
+2024,1238,spain,Esteban OconOCO,10.0,Alpine Renault,66,+71.889s,1.0,9.0,1:12.691,1:12.109,1:12.125,8.0,1:18.982,212.266,2.0,1:15.086,1:13.766,1:13.950
+2024,1238,spain,Nico HulkenbergHUL,11.0,Haas Ferrari,66,+79.215s,0.0,13.0,1:12.708,1:12.310,,13.0,1:18.609,213.273,2.0,,1:14.053,1:13.975
+2024,1238,spain,Fernando AlonsoALO,12.0,Aston Martin Aramco Mercedes,65,+1 lap,0.0,11.0,1:12.505,1:12.128,,10.0,1:18.334,214.022,2.0,1:15.222,1:14.091,1:13.786
+2024,1238,spain,Zhou GuanyuZHO,13.0,Kick Sauber Ferrari,65,+1 lap,0.0,15.0,1:12.880,1:12.738,,15.0,1:18.771,212.834,2.0,1:15.616,1:14.345,1:14.572
+2024,1238,spain,Lance StrollSTR,14.0,Aston Martin Aramco Mercedes,65,+1 lap,0.0,14.0,1:12.881,1:12.372,,14.0,1:19.318,211.366,2.0,1:15.512,1:14.402,1:14.254
+2024,1238,spain,Daniel RicciardoRIC,15.0,RB Honda RBPT,65,+1 lap,0.0,18.0,1:13.075,,,18.0,1:19.450,211.015,2.0,1:15.580,1:14.257,1:14.161
+2024,1238,spain,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,65,+1 lap,0.0,12.0,1:12.758,1:12.227,,12.0,1:19.608,210.596,2.0,1:15.472,1:13.924,1:14.024
+2024,1238,spain,Kevin MagnussenMAG,17.0,Haas Ferrari,65,+1 lap,0.0,16.0,1:12.937,,,16.0,1:19.805,210.077,2.0,1:15.644,1:14.021,1:14.074
+2024,1238,spain,Alexander AlbonALB,18.0,Williams Mercedes,65,+1 lap,0.0,19.0,1:13.153,,,20.0,1:19.132,211.863,2.0,1:15.417,1:14.807,1:13.753
+2024,1238,spain,Yuki TsunodaTSU,19.0,RB Honda RBPT,65,+1 lap,0.0,17.0,1:12.985,,,17.0,1:19.447,211.023,3.0,1:15.916,1:14.211,1:14.420
+2024,1238,spain,Logan SargeantSAR,20.0,Williams Mercedes,64,+2 laps,0.0,20.0,1:13.509,,,19.0,1:20.172,209.115,2.0,1:15.752,1:15.070,1:14.729
+2024,1238,spain,Note - Norris scored an additional point for setting the fastest lap of the race. Hulkenberg and Tsunoda each received a five-second time penalty for speeding in the pit lane.,,Note - Norris scored an additional point for setting the fastest lap of the race. Hulkenberg and Tsunoda each received a five-second time penalty for speeding in the pit lane.,Note - Norris scored an additional point for setting the fastest lap of the race. Hulkenberg and Tsunoda each received a five-second time penalty for speeding in the pit lane.,Note - Norris scored an additional point for setting the fastest lap of the race. Hulkenberg and Tsunoda each received a five-second time penalty for speeding in the pit lane.,,,,,,,,,0.0,,,
+2024,1239,austria,George RussellRUS,1.0,Mercedes,71,1:24:22.798,25.0,3.0,1:05.585,1:05.016,1:04.840,3.0,1:09.164,224.752,2.0,1:06.386,,
+2024,1239,austria,Oscar PiastriPIA,2.0,McLaren Mercedes,71,+1.906s,18.0,7.0,1:05.311,1:05.070,1:05.048,7.0,1:08.697,226.28,2.0,1:05.961,,
+2024,1239,austria,Carlos SainzSAI,3.0,Ferrari,71,+4.533s,15.0,4.0,1:05.263,1:05.016,1:04.851,4.0,1:09.282,224.369,2.0,1:06.128,,
+2024,1239,austria,Lewis HamiltonHAM,4.0,Mercedes,71,+23.142s,12.0,5.0,1:05.541,1:05.053,1:04.903,5.0,1:09.562,223.466,2.0,1:06.254,,
+2024,1239,austria,Max VerstappenVER,5.0,Red Bull Racing Honda RBPT,71,+37.253s,10.0,1.0,1:05.336,1:04.469,1:04.314,1.0,1:07.719,229.548,3.0,1:05.685,,
+2024,1239,austria,Nico HulkenbergHUL,6.0,Haas Ferrari,71,+54.088s,8.0,9.0,1:05.596,1:05.262,1:05.385,9.0,1:10.215,221.388,2.0,1:06.966,,
+2024,1239,austria,Sergio PerezPER,7.0,Red Bull Racing Honda RBPT,71,+54.672s,6.0,8.0,1:05.587,1:05.144,1:05.202,8.0,1:09.694,223.043,2.0,1:06.783,,
+2024,1239,austria,Kevin MagnussenMAG,8.0,Haas Ferrari,71,+60.355s,4.0,12.0,1:05.508,1:05.347,,12.0,1:10.125,221.672,2.0,1:07.145,,
+2024,1239,austria,Daniel RicciardoRIC,9.0,RB Honda RBPT,71,+61.169s,2.0,11.0,1:05.569,1:05.289,,11.0,1:10.426,220.725,2.0,1:06.962,,
+2024,1239,austria,Pierre GaslyGAS,10.0,Alpine Renault,71,+61.766s,1.0,13.0,1:05.598,1:05.359,,13.0,1:09.609,223.315,2.0,1:06.734,,
+2024,1239,austria,Charles LeclercLEC,11.0,Ferrari,71,+67.056s,0.0,6.0,1:05.509,1:05.104,1:05.044,6.0,1:09.584,223.396,4.0,1:06.055,,
+2024,1239,austria,Esteban OconOCO,12.0,Alpine Renault,71,+68.325s,0.0,10.0,1:05.574,1:05.274,1:05.883,10.0,1:09.649,223.187,2.0,1:06.297,,
+2024,1239,austria,Lance StrollSTR,13.0,Aston Martin Aramco Mercedes,70,+1 lap,0.0,17.0,1:05.819,,,17.0,1:10.143,221.615,2.0,1:06.384,,
+2024,1239,austria,Yuki TsunodaTSU,14.0,RB Honda RBPT,70,+1 lap,0.0,14.0,1:05.563,1:05.412,,14.0,1:10.318,221.064,2.0,1:06.579,,
+2024,1239,austria,Alexander AlbonALB,15.0,Williams Mercedes,70,+1 lap,0.0,16.0,1:05.736,,,16.0,1:10.364,220.919,2.0,1:06.995,,
+2024,1239,austria,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,70,+1 lap,0.0,18.0,1:05.847,,,18.0,1:10.449,220.653,2.0,1:06.925,,
+2024,1239,austria,Zhou GuanyuZHO,17.0,Kick Sauber Ferrari,70,+1 lap,0.0,20.0,1:06.061,,,20.0,1:10.470,220.587,2.0,1:06.919,,
+2024,1239,austria,Fernando AlonsoALO,18.0,Aston Martin Aramco Mercedes,70,+1 lap,0.0,15.0,1:05.656,1:05.639,,15.0,1:07.694,229.633,3.0,1:06.603,,
+2024,1239,austria,Logan SargeantSAR,19.0,Williams Mercedes,69,+2 laps,0.0,19.0,1:05.856,,,19.0,1:10.406,220.788,3.0,1:07.259,,
+2024,1239,austria,Lando NorrisNOR,20.0,McLaren Mercedes,64,+7 laps,0.0,2.0,1:05.450,1:05.103,1:04.718,2.0,1:08.016,228.546,2.0,1:06.880,,
+2024,1239,austria,Note - Albon received a five-second time penalty for crossing the line at pit entry. Norris received a five-second time penalty for leaving the track without a justifiable reason multiple times. Verstappen received a 10-second time penalty for causing a collision.,,Note - Albon received a five-second time penalty for crossing the line at pit entry. Norris received a five-second time penalty for leaving the track without a justifiable reason multiple times. Verstappen received a 10-second time penalty for causing a collision.,Note - Albon received a five-second time penalty for crossing the line at pit entry. Norris received a five-second time penalty for leaving the track without a justifiable reason multiple times. Verstappen received a 10-second time penalty for causing a collision.,Note - Albon received a five-second time penalty for crossing the line at pit entry. Norris received a five-second time penalty for leaving the track without a justifiable reason multiple times. Verstappen received a 10-second time penalty for causing a collision.,,,,,,,,,0.0,,,
+2024,1240,great-britain,Lewis HamiltonHAM,1.0,Mercedes,52,1:22:27.059,25.0,2.0,1:29.547,1:26.770,1:25.990,2.0,1:29.438,237.12,2.0,1:27.858,1:27.202,1:37.564
+2024,1240,great-britain,Max VerstappenVER,2.0,Red Bull Racing Honda RBPT,52,+1.465s,18.0,4.0,1:31.342,1:26.796,1:26.203,4.0,1:28.952,238.416,2.0,1:27.729,1:27.233,1:38.393
+2024,1240,great-britain,Lando NorrisNOR,3.0,McLaren Mercedes,52,+7.547s,15.0,3.0,1:31.596,1:26.559,1:26.030,3.0,1:29.262,237.588,2.0,1:27.420,1:26.549,1:37.714
+2024,1240,great-britain,Oscar PiastriPIA,4.0,McLaren Mercedes,52,+12.429s,12.0,5.0,1:30.895,1:26.733,1:26.237,5.0,1:28.748,238.964,2.0,1:27.631,1:26.880,1:38.654
+2024,1240,great-britain,Carlos SainzSAI,5.0,Ferrari,52,+47.318s,11.0,7.0,1:30.557,1:26.843,1:26.509,7.0,1:28.293,240.195,3.0,1:27.925,1:27.249,1:38.139
+2024,1240,great-britain,Nico HulkenbergHUL,6.0,Haas Ferrari,52,+55.722s,8.0,6.0,1:31.929,1:26.847,1:26.338,6.0,1:29.836,236.07,2.0,1:28.082,1:26.990,1:39.340
+2024,1240,great-britain,Lance StrollSTR,7.0,Aston Martin Aramco Mercedes,52,+56.569s,6.0,8.0,1:31.410,1:26.938,1:26.585,8.0,1:29.897,235.909,2.0,1:27.554,1:27.274,1:39.700
+2024,1240,great-britain,Fernando AlonsoALO,8.0,Aston Martin Aramco Mercedes,52,+63.577s,4.0,10.0,1:31.264,1:26.730,1:26.917,10.0,1:29.710,236.401,2.0,1:27.794,1:27.372,1:38.940
+2024,1240,great-britain,Alexander AlbonALB,9.0,Williams Mercedes,52,+68.387s,2.0,9.0,1:31.135,1:26.933,1:26.640,9.0,1:29.718,236.38,2.0,1:28.649,1:27.645,1:39.603
+2024,1240,great-britain,Yuki TsunodaTSU,10.0,RB Honda RBPT,52,+79.303s,1.0,13.0,1:30.994,1:27.269,,13.0,1:30.229,235.041,2.0,1:29.864,1:27.745,1:39.820
+2024,1240,great-britain,Logan SargeantSAR,11.0,Williams Mercedes,52,+88.960s,0.0,12.0,1:31.608,1:27.175,,12.0,1:29.972,235.713,2.0,,1:27.809,1:39.702
+2024,1240,great-britain,Kevin MagnussenMAG,12.0,Haas Ferrari,52,+90.153s,0.0,17.0,1:32.905,,,17.0,1:30.093,235.396,2.0,,1:28.122,1:40.539
+2024,1240,great-britain,Daniel RicciardoRIC,13.0,RB Honda RBPT,51,+1 lap,0.0,15.0,1:31.291,1:27.949,,15.0,1:30.735,233.731,2.0,1:28.477,1:27.916,1:40.823
+2024,1240,great-britain,Charles LeclercLEC,14.0,Ferrari,51,+1 lap,0.0,11.0,1:30.496,1:27.097,,11.0,1:29.748,236.301,3.0,1:27.903,1:27.150,1:38.454
+2024,1240,great-britain,Valtteri BottasBOT,15.0,Kick Sauber Ferrari,51,+1 lap,0.0,16.0,1:32.431,,,16.0,1:31.277,232.343,2.0,1:28.254,1:27.381,1:40.242
+2024,1240,great-britain,Esteban OconOCO,16.0,Alpine Renault,50,+2 laps,0.0,18.0,1:34.557,,,18.0,1:30.875,233.371,4.0,1:27.974,1:27.743,1:40.430
+2024,1240,great-britain,Sergio PerezPER,17.0,Red Bull Racing Honda RBPT,50,+2 laps,0.0,19.0,1:38.348,,,19.0,1:29.707,236.409,4.0,,1:26.983,1:39.284
+2024,1240,great-britain,Zhou GuanyuZHO,18.0,Kick Sauber Ferrari,50,+2 laps,0.0,14.0,1:31.190,1:27.867,,14.0,1:31.014,233.014,4.0,1:28.590,1:27.813,1:41.785
+2024,1240,great-britain,George RussellRUS,,Mercedes,33,DNF,0.0,1.0,1:30.106,1:26.723,1:25.819,1.0,1:31.298,232.289,1.0,1:27.738,1:27.294,1:37.529
+2024,1240,great-britain,Pierre GaslyGAS,,Alpine Renault,0,DNS,0.0,20.0,1:39.804,,,19.0,,,0.0,,1:27.732,
+2024,1240,great-britain,Note - Sainz scored an additional point for setting the fastest lap of the race.,,Note - Sainz scored an additional point for setting the fastest lap of the race.,Note - Sainz scored an additional point for setting the fastest lap of the race.,Note - Sainz scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1241,hungary,Oscar PiastriPIA,1.0,McLaren Mercedes,70,1:38:01.989,25.0,2.0,1:17.504,1:15.785,1:15.249,2.0,1:21.716,193.005,2.0,1:19.249,1:18.618,1:16.142
+2024,1241,hungary,Lando NorrisNOR,2.0,McLaren Mercedes,70,+2.141s,18.0,1.0,1:17.755,1:15.540,1:15.227,1.0,1:21.712,193.014,2.0,1:19.211,1:17.788,1:16.098
+2024,1241,hungary,Lewis HamiltonHAM,3.0,Mercedes,70,+14.880s,15.0,5.0,1:17.087,1:16.307,1:15.854,5.0,1:22.153,191.978,2.0,1:19.287,1:18.363,1:16.786
+2024,1241,hungary,Charles LeclercLEC,4.0,Ferrari,70,+19.686s,12.0,6.0,1:17.437,1:15.891,1:15.905,6.0,1:22.182,191.91,2.0,1:19.011,1:19.286,1:16.803
+2024,1241,hungary,Max VerstappenVER,5.0,Red Bull Racing Honda RBPT,70,+21.349s,10.0,3.0,1:17.087,1:15.770,1:15.273,3.0,1:20.908,194.932,2.0,1:18.989,1:18.031,1:16.379
+2024,1241,hungary,Carlos SainzSAI,6.0,Ferrari,70,+23.073s,8.0,4.0,1:17.244,1:15.885,1:15.696,4.0,1:21.441,193.656,2.0,1:18.713,1:18.185,1:16.639
+2024,1241,hungary,Sergio PerezPER,7.0,Red Bull Racing Honda RBPT,70,+39.792s,6.0,16.0,1:17.886,,,16.0,1:21.096,194.48,2.0,1:19.440,1:18.255,1:16.954
+2024,1241,hungary,George RussellRUS,8.0,Mercedes,70,+42.368s,5.0,17.0,1:17.968,,,17.0,1:20.305,196.396,2.0,1:19.137,1:18.294,1:16.564
+2024,1241,hungary,Yuki TsunodaTSU,9.0,RB Honda RBPT,70,+77.259s,2.0,10.0,1:17.436,1:16.121,1:16.477,10.0,1:23.533,188.806,1.0,1:19.260,1:19.606,1:16.744
+2024,1241,hungary,Lance StrollSTR,10.0,Aston Martin Aramco Mercedes,70,+77.976s,1.0,8.0,1:17.405,1:16.075,1:16.244,8.0,1:22.338,191.547,2.0,1:19.265,1:19.179,1:17.085
+2024,1241,hungary,Fernando AlonsoALO,11.0,Aston Martin Aramco Mercedes,70,+82.460s,0.0,7.0,1:17.624,1:16.117,1:16.043,7.0,1:23.063,189.875,2.0,1:19.686,1:18.519,1:17.001
+2024,1241,hungary,Daniel RicciardoRIC,12.0,RB Honda RBPT,69,+1 lap,0.0,9.0,1:17.050,1:16.202,1:16.447,9.0,1:22.640,190.847,2.0,1:19.578,1:18.371,1:16.652
+2024,1241,hungary,Nico HulkenbergHUL,13.0,Haas Ferrari,69,+1 lap,0.0,11.0,1:17.362,1:16.317,,11.0,1:23.461,188.969,2.0,,1:18.791,1:16.696
+2024,1241,hungary,Alexander AlbonALB,14.0,Williams Mercedes,69,+1 lap,0.0,13.0,1:17.280,1:16.429,,13.0,1:23.930,187.913,2.0,1:19.794,1:18.514,1:16.661
+2024,1241,hungary,Kevin MagnussenMAG,15.0,Haas Ferrari,69,+1 lap,0.0,15.0,1:17.851,1:16.548,,15.0,1:23.553,188.761,2.0,1:20.295,1:18.315,1:17.507
+2024,1241,hungary,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,69,+1 lap,0.0,12.0,1:17.487,1:16.384,,12.0,1:22.792,190.496,2.0,1:19.804,1:18.586,1:16.804
+2024,1241,hungary,Logan SargeantSAR,17.0,Williams Mercedes,69,+1 lap,0.0,14.0,1:17.770,1:16.543,,14.0,1:20.561,195.772,3.0,1:19.885,1:18.611,1:17.168
+2024,1241,hungary,Esteban OconOCO,18.0,Alpine Renault,69,+1 lap,0.0,19.0,1:18.049,,,19.0,1:21.610,193.255,3.0,1:20.023,1:18.754,1:17.575
+2024,1241,hungary,Zhou GuanyuZHO,19.0,Kick Sauber Ferrari,69,+1 lap,0.0,18.0,1:18.037,,,18.0,1:23.487,188.91,2.0,1:19.180,1:20.067,1:17.291
+2024,1241,hungary,Pierre GaslyGAS,,Alpine Renault,33,DNF,0.0,20.0,1:18.166,,,20.0,1:23.340,189.244,1.0,1:19.976,1:18.888,1:17.499
+2024,1241,hungary,Note - Russell scored an additional point for setting the fastest lap of the race.,,Note - Russell scored an additional point for setting the fastest lap of the race.,Note - Russell scored an additional point for setting the fastest lap of the race.,Note - Russell scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1242,belgium,George RussellRUS,,Mercedes,44,1:19:57.040,0.0,7.0,1:55.353,1:54.095,1:54.184,6.0,1:47.113,235.399,1.0,1:44.225,1:43.290,
+2024,1242,belgium,Lewis HamiltonHAM,1.0,Mercedes,44,+0.526s,25.0,4.0,1:55.692,1:54.037,1:53.835,3.0,1:46.653,236.415,2.0,1:44.279,1:43.519,2:06.751
+2024,1242,belgium,Oscar PiastriPIA,2.0,McLaren Mercedes,44,+1.173s,18.0,6.0,1:54.835,1:54.136,1:54.027,5.0,1:45.840,238.231,2.0,1:43.903,1:42.475,2:02.998
+2024,1242,belgium,Charles LeclercLEC,3.0,Ferrari,44,+8.549s,15.0,2.0,1:55.349,1:54.193,1:53.754,1.0,1:47.013,235.619,2.0,1:44.306,1:42.837,2:06.033
+2024,1242,belgium,Max VerstappenVER,4.0,Red Bull Racing Honda RBPT,44,+9.226s,12.0,1.0,1:54.938,1:53.837,1:53.159,11.0,1:46.128,237.584,2.0,1:43.372,1:42.477,2:01.565
+2024,1242,belgium,Lando NorrisNOR,5.0,McLaren Mercedes,44,+9.850s,10.0,5.0,1:55.582,1:54.358,1:53.981,4.0,1:45.563,238.856,2.0,1:44.415,1:42.260,2:03.372
+2024,1242,belgium,Carlos SainzSAI,6.0,Ferrari,44,+19.795s,8.0,8.0,1:55.169,1:54.112,1:54.477,7.0,1:46.364,237.057,2.0,1:44.574,1:43.098,
+2024,1242,belgium,Sergio PerezPER,7.0,Red Bull Racing Honda RBPT,44,+43.195s,7.0,3.0,1:55.139,1:54.470,1:53.765,2.0,1:44.701,240.822,3.0,1:44.329,1:43.504,2:07.103
+2024,1242,belgium,Fernando AlonsoALO,8.0,Aston Martin Aramco Mercedes,44,+49.963s,4.0,9.0,1:55.489,1:54.258,1:54.765,8.0,1:48.051,233.356,1.0,1:44.921,1:43.538,2:08.071
+2024,1242,belgium,Esteban OconOCO,9.0,Alpine Renault,44,+52.552s,2.0,10.0,1:55.417,1:54.460,1:54.810,9.0,1:46.957,235.743,2.0,,1:43.401,2:05.250
+2024,1242,belgium,Daniel RicciardoRIC,10.0,RB Honda RBPT,44,+54.926s,1.0,13.0,1:55.451,1:54.682,,13.0,1:47.435,234.694,2.0,1:44.950,1:43.823,2:08.410
+2024,1242,belgium,Lance StrollSTR,11.0,Aston Martin Aramco Mercedes,44,+63.011s,0.0,15.0,1:56.072,1:55.716,,15.0,1:48.105,233.239,1.0,1:44.699,1:43.532,2:06.037
+2024,1242,belgium,Alexander AlbonALB,12.0,Williams Mercedes,44,+63.651s,0.0,11.0,1:55.722,1:54.473,,10.0,1:47.996,233.475,2.0,1:44.099,1:43.892,2:07.443
+2024,1242,belgium,Pierre GaslyGAS,13.0,Alpine Renault,44,+64.365s,0.0,12.0,1:54.911,1:54.635,,12.0,1:47.418,234.731,2.0,1:44.833,1:43.829,2:03.175
+2024,1242,belgium,Kevin MagnussenMAG,14.0,Haas Ferrari,44,+66.631s,0.0,17.0,1:56.500,,,17.0,1:47.848,233.795,1.0,1:45.812,1:43.485,
+2024,1242,belgium,Valtteri BottasBOT,15.0,Kick Sauber Ferrari,44,+70.638s,0.0,14.0,1:55.531,1:54.764,,14.0,1:47.019,235.606,2.0,1:45.155,1:43.675,2:06.492
+2024,1242,belgium,Yuki TsunodaTSU,16.0,RB Honda RBPT,44,+76.737s,0.0,18.0,1:56.593,,,20.0,1:47.969,233.533,1.0,1:45.564,1:44.348,2:09.444
+2024,1242,belgium,Logan SargeantSAR,17.0,Williams Mercedes,44,+86.057s,0.0,19.0,1:57.230,,,18.0,1:47.490,234.574,2.0,1:45.311,1:44.226,2:11.220
+2024,1242,belgium,Nico HulkenbergHUL,18.0,Haas Ferrari,44,+88.833s,0.0,16.0,1:56.308,,,16.0,1:48.954,231.422,2.0,1:45.645,1:43.846,2:08.040
+2024,1242,belgium,Zhou GuanyuZHO,,Kick Sauber Ferrari,5,DNF,0.0,20.0,1:57.775,,,19.0,1:52.099,224.929,0.0,1:45.995,1:44.302,2:11.109
+2024,1242,belgium,Note - Russell disqualified for an underweight car. Perez scored an additional point for setting the fastest lap of the race.,,Note - Russell disqualified for an underweight car. Perez scored an additional point for setting the fastest lap of the race.,Note - Russell disqualified for an underweight car. Perez scored an additional point for setting the fastest lap of the race.,Note - Russell disqualified for an underweight car. Perez scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1243,netherlands,Lando NorrisNOR,1.0,McLaren Mercedes,72,1:30:45.519,26.0,1.0,1:11.377,1:10.496,1:09.673,1.0,1:13.817,207.708,1.0,1:12.322,1:10.961,1:21.387
+2024,1243,netherlands,Max VerstappenVER,2.0,Red Bull Racing Honda RBPT,72,+22.896s,18.0,2.0,1:11.393,1:10.811,1:10.029,2.0,1:14.752,205.11,1.0,1:12.523,1:10.986,1:24.360
+2024,1243,netherlands,Charles LeclercLEC,3.0,Ferrari,72,+25.439s,15.0,6.0,1:11.370,1:10.689,1:10.582,6.0,1:14.585,205.569,1.0,1:14.306,1:11.443,1:24.158
+2024,1243,netherlands,Oscar PiastriPIA,4.0,McLaren Mercedes,72,+27.337s,12.0,3.0,1:11.541,1:10.505,1:10.172,3.0,1:14.237,206.533,1.0,1:13.230,1:10.763,1:21.850
+2024,1243,netherlands,Carlos SainzSAI,5.0,Ferrari,72,+32.137s,10.0,10.0,1:11.327,1:10.914,,10.0,1:14.117,206.867,1.0,1:13.074,1:13.108,1:22.589
+2024,1243,netherlands,Sergio PerezPER,6.0,Red Bull Racing Honda RBPT,72,+39.542s,8.0,5.0,1:11.006,1:10.678,1:10.416,5.0,1:14.587,205.563,1.0,1:14.279,1:11.581,
+2024,1243,netherlands,George RussellRUS,7.0,Mercedes,72,+44.617s,6.0,4.0,1:11.049,1:10.552,1:10.244,4.0,1:13.927,207.399,2.0,1:13.142,1:10.702,1:23.958
+2024,1243,netherlands,Lewis HamiltonHAM,8.0,Mercedes,72,+49.599s,4.0,11.0,1:11.375,1:10.948,,14.0,1:13.878,207.536,2.0,1:13.006,1:10.813,1:24.098
+2024,1243,netherlands,Pierre GaslyGAS,9.0,Alpine Renault,71,+1 lap,2.0,9.0,1:11.718,1:10.815,1:10.977,9.0,1:14.855,204.828,1.0,1:22.036,1:11.644,1:20.311
+2024,1243,netherlands,Fernando AlonsoALO,10.0,Aston Martin Aramco Mercedes,71,+1 lap,1.0,7.0,1:11.493,1:10.845,1:10.633,7.0,1:14.758,205.093,1.0,1:14.467,1:11.357,1:21.461
+2024,1243,netherlands,Nico HulkenbergHUL,11.0,Haas Ferrari,71,+1 lap,0.0,13.0,1:11.832,1:11.215,,12.0,1:15.657,202.656,1.0,1:13.563,1:13.296,1:22.354
+2024,1243,netherlands,Daniel RicciardoRIC,12.0,RB Honda RBPT,71,+1 lap,0.0,15.0,1:11.943,,,13.0,1:15.222,203.828,1.0,1:16.231,1:11.630,1:25.433
+2024,1243,netherlands,Lance StrollSTR,13.0,Aston Martin Aramco Mercedes,71,+1 lap,0.0,8.0,1:11.518,1:10.661,1:10.857,8.0,1:15.255,203.739,1.0,1:14.151,1:11.576,1:21.941
+2024,1243,netherlands,Alexander AlbonALB,14.0,Williams Mercedes,71,+1 lap,0.0,,,,,19.0,1:14.434,205.986,2.0,1:13.159,1:11.550,1:24.007
+2024,1243,netherlands,Esteban OconOCO,15.0,Alpine Renault,71,+1 lap,0.0,16.0,1:11.995,,,15.0,1:15.390,203.374,1.0,1:15.796,1:12.061,1:21.643
+2024,1243,netherlands,Logan SargeantSAR,16.0,Williams Mercedes,71,+1 lap,0.0,,,,,18.0,1:15.539,202.973,1.0,1:15.605,1:11.818,1:23.287
+2024,1243,netherlands,Yuki TsunodaTSU,17.0,RB Honda RBPT,71,+1 lap,0.0,12.0,1:11.603,1:10.955,,11.0,1:15.552,202.938,2.0,1:14.418,1:11.374,
+2024,1243,netherlands,Kevin MagnussenMAG,18.0,Haas Ferrari,71,+1 lap,0.0,14.0,1:11.630,1:11.295,,20.0,1:14.954,204.557,1.0,1:13.597,1:11.430,1:20.450
+2024,1243,netherlands,Valtteri BottasBOT,19.0,Kick Sauber Ferrari,70,+2 laps,0.0,17.0,1:12.168,,,16.0,1:15.822,202.215,2.0,,1:12.206,1:21.155
+2024,1243,netherlands,Zhou GuanyuZHO,20.0,Kick Sauber Ferrari,70,+2 laps,0.0,18.0,1:13.261,,,17.0,1:15.724,202.477,2.0,1:13.965,1:11.934,1:23.240
+2024,1243,netherlands,Note - Norris scored an additional point for setting the fastest lap of the race. Stroll received a five-second time penalty for speeding in the pit lane.,,Note - Norris scored an additional point for setting the fastest lap of the race. Stroll received a five-second time penalty for speeding in the pit lane.,Note - Norris scored an additional point for setting the fastest lap of the race. Stroll received a five-second time penalty for speeding in the pit lane.,Note - Norris scored an additional point for setting the fastest lap of the race. Stroll received a five-second time penalty for speeding in the pit lane.,,,,,,,,,0.0,,,
+2024,1244,italy,Charles LeclercLEC,1.0,Ferrari,53,1:14:40.727,25.0,4.0,1:20.074,1:20.007,1:19.461,4.0,1:23.226,250.58,1.0,1:21.904,1:20.892,1:20.226
+2024,1244,italy,Oscar PiastriPIA,2.0,McLaren Mercedes,53,+2.664s,18.0,2.0,1:20.076,1:19.808,1:19.436,2.0,1:21.943,254.503,2.0,1:22.199,1:20.858,1:20.252
+2024,1244,italy,Lando NorrisNOR,3.0,McLaren Mercedes,53,+6.153s,16.0,1.0,1:19.911,1:19.727,1:19.327,1.0,1:21.432,256.1,2.0,1:21.917,1:20.741,1:20.262
+2024,1244,italy,Carlos SainzSAI,4.0,Ferrari,53,+15.621s,12.0,5.0,1:20.149,1:19.799,1:19.467,5.0,1:23.219,250.601,1.0,1:22.126,1:20.841,1:20.463
+2024,1244,italy,Lewis HamiltonHAM,5.0,Mercedes,53,+22.820s,10.0,6.0,1:20.477,1:19.641,1:19.513,6.0,1:21.512,255.849,2.0,1:22.214,1:20.738,1:20.117
+2024,1244,italy,Max VerstappenVER,6.0,Red Bull Racing Honda RBPT,53,+37.932s,8.0,7.0,1:20.226,1:19.662,1:20.022,7.0,1:21.745,255.12,2.0,1:21.676,1:21.610,1:20.368
+2024,1244,italy,George RussellRUS,7.0,Mercedes,53,+39.715s,6.0,3.0,1:20.169,1:19.877,1:19.440,3.0,1:22.036,254.215,2.0,,1:21.086,1:20.210
+2024,1244,italy,Sergio PerezPER,8.0,Red Bull Racing Honda RBPT,53,+54.148s,4.0,8.0,1:20.598,1:20.216,1:20.062,8.0,1:22.971,251.35,2.0,1:22.311,1:21.678,1:21.287
+2024,1244,italy,Alexander AlbonALB,9.0,Williams Mercedes,53,+67.456s,2.0,9.0,1:20.542,1:20.314,1:20.299,9.0,1:23.918,248.514,1.0,1:22.220,1:21.592,1:20.596
+2024,1244,italy,Kevin MagnussenMAG,10.0,Haas Ferrari,53,+68.302s,1.0,13.0,1:20.856,1:20.698,,13.0,1:23.437,249.946,1.0,1:22.572,1:21.499,1:21.208
+2024,1244,italy,Fernando AlonsoALO,11.0,Aston Martin Aramco Mercedes,53,+68.495s,0.0,11.0,1:20.617,1:20.421,,11.0,1:22.944,251.432,2.0,1:22.315,1:21.316,1:20.968
+2024,1244,italy,Franco ColapintoCOL,12.0,Williams Mercedes,53,+81.308s,0.0,18.0,1:21.061,,,18.0,1:23.728,249.077,1.0,1:22.880,1:21.784,1:20.905
+2024,1244,italy,Daniel RicciardoRIC,13.0,RB Honda RBPT,53,+93.452s,0.0,12.0,1:20.901,1:20.479,,12.0,1:24.219,247.625,1.0,1:22.605,1:21.300,1:21.077
+2024,1244,italy,Esteban OconOCO,14.0,Alpine Renault,52,+1 lap,0.0,15.0,1:20.764,1:20.766,,15.0,1:24.343,247.261,1.0,1:22.880,1:21.867,1:21.258
+2024,1244,italy,Pierre GaslyGAS,15.0,Alpine Renault,52,+1 lap,0.0,14.0,1:20.748,1:20.738,,14.0,1:23.755,248.997,2.0,1:22.763,1:21.819,1:21.155
+2024,1244,italy,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,52,+1 lap,0.0,19.0,1:21.101,,,19.0,1:23.609,249.432,1.0,1:22.127,1:21.461,1:21.357
+2024,1244,italy,Nico HulkenbergHUL,17.0,Haas Ferrari,52,+1 lap,0.0,10.0,1:20.781,1:20.411,1:20.339,10.0,1:23.275,250.432,2.0,1:23.157,1:21.140,1:20.943
+2024,1244,italy,Zhou GuanyuZHO,18.0,Kick Sauber Ferrari,52,+1 lap,0.0,20.0,1:21.445,,,20.0,1:25.092,245.085,1.0,1:22.854,1:22.223,1:22.035
+2024,1244,italy,Lance StrollSTR,19.0,Aston Martin Aramco Mercedes,52,+1 lap,0.0,17.0,1:21.013,,,17.0,1:22.232,253.609,3.0,1:22.864,1:21.363,1:21.157
+2024,1244,italy,Yuki TsunodaTSU,,RB Honda RBPT,7,DNF,0.0,16.0,1:20.945,,,16.0,1:26.198,241.94,0.0,1:22.714,1:21.735,1:21.141
+2024,1244,italy,Note - Norris scored an additional point for setting the fastest lap of the race. Ricciardo received a five-second time penalty for forcing another driver off track and a further 10-second time penalty for failing to serve the first penalty correctly. Magnussen received a 10-second time penalty for causing a collision.,,Note - Norris scored an additional point for setting the fastest lap of the race. Ricciardo received a five-second time penalty for forcing another driver off track and a further 10-second time penalty for failing to serve the first penalty correctly. Magnussen received a 10-second time penalty for causing a collision.,Note - Norris scored an additional point for setting the fastest lap of the race. Ricciardo received a five-second time penalty for forcing another driver off track and a further 10-second time penalty for failing to serve the first penalty correctly. Magnussen received a 10-second time penalty for causing a collision.,Note - Norris scored an additional point for setting the fastest lap of the race. Ricciardo received a five-second time penalty for forcing another driver off track and a further 10-second time penalty for failing to serve the first penalty correctly. Magnussen received a 10-second time penalty for causing a collision.,,,,,,,,,0.0,,,
+2024,1245,azerbaijan,Oscar PiastriPIA,1.0,McLaren Mercedes,51,1:32:58.007,25.0,2.0,1:43.033,1:42.598,1:41.686,2.0,1:47.060,201.856,1.0,1:46.282,1:43.983,1:42.749
+2024,1245,azerbaijan,Charles LeclercLEC,2.0,Ferrari,51,+10.910s,18.0,1.0,1:42.775,1:42.056,1:41.365,1.0,1:47.067,201.843,1.0,1:46.608,1:43.484,1:42.527
+2024,1245,azerbaijan,George RussellRUS,3.0,Mercedes,51,+31.328s,15.0,5.0,1:43.139,1:42.329,1:41.874,5.0,1:46.628,202.674,1.0,1:46.516,1:44.536,1:42.514
+2024,1245,azerbaijan,Lando NorrisNOR,4.0,McLaren Mercedes,51,+36.143s,13.0,16.0,1:43.609,,,15.0,1:45.255,205.318,1.0,1:46.027,1:45.156,1:42.737
+2024,1245,azerbaijan,Max VerstappenVER,5.0,Red Bull Racing Honda RBPT,51,+77.098s,10.0,6.0,1:43.097,1:42.042,1:42.023,6.0,1:46.798,202.352,2.0,1:45.546,1:44.029,1:42.862
+2024,1245,azerbaijan,Fernando AlonsoALO,6.0,Aston Martin Aramco Mercedes,51,+85.468s,8.0,8.0,1:43.472,1:42.426,1:42.369,7.0,1:47.057,201.862,1.0,1:46.452,1:44.683,1:43.474
+2024,1245,azerbaijan,Alexander AlbonALB,7.0,Williams Mercedes,51,+87.396s,6.0,10.0,1:42.899,1:42.840,1:42.859,9.0,1:46.947,202.07,1.0,1:47.955,1:44.737,1:43.194
+2024,1245,azerbaijan,Franco ColapintoCOL,8.0,Williams Mercedes,51,+89.541s,4.0,9.0,1:43.138,1:42.473,1:42.530,8.0,1:47.274,201.454,1.0,1:47.901,1:44.749,1:43.238
+2024,1245,azerbaijan,Lewis HamiltonHAM,9.0,Mercedes,51,+92.401s,2.0,7.0,1:43.089,1:42.765,1:42.289,19.0,1:47.236,201.525,1.0,1:45.859,1:43.550,1:43.301
+2024,1245,azerbaijan,Oliver BearmanBEA,10.0,Haas Ferrari,51,+93.127s,1.0,11.0,1:43.471,1:42.968,,10.0,1:47.048,201.879,1.0,1:46.973,1:44.547,
+2024,1245,azerbaijan,Nico HulkenbergHUL,11.0,Haas Ferrari,51,+93.465s,0.0,13.0,1:43.101,1:43.191,,12.0,1:47.691,200.674,1.0,1:47.135,1:44.475,1:44.164
+2024,1245,azerbaijan,Pierre GaslyGAS,12.0,Alpine Renault,51,+117.189s,0.0,,,,,18.0,1:48.018,200.066,1.0,1:48.712,1:45.391,1:43.876
+2024,1245,azerbaijan,Daniel RicciardoRIC,13.0,RB Honda RBPT,51,+146.907s,0.0,15.0,1:43.547,,,14.0,1:48.380,199.398,1.0,1:46.687,1:45.056,1:43.870
+2024,1245,azerbaijan,Zhou GuanyuZHO,14.0,Kick Sauber Ferrari,51,+148.841s,0.0,18.0,1:44.246,,,17.0,1:47.644,200.761,1.0,1:49.052,1:45.947,1:44.869
+2024,1245,azerbaijan,Esteban OconOCO,15.0,Alpine Renault,50,+1 lap,0.0,19.0,1:44.504,,,20.0,1:48.831,198.572,1.0,,1:45.810,
+2024,1245,azerbaijan,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,50,+1 lap,0.0,17.0,1:43.618,,,16.0,1:48.418,199.328,1.0,1:47.640,1:44.785,1:44.187
+2024,1245,azerbaijan,Sergio PerezPER,17.0,Red Bull Racing Honda RBPT,49,DNF,0.0,4.0,1:43.213,1:42.263,1:41.813,4.0,1:47.013,201.945,1.0,1:45.922,1:43.490,1:43.024
+2024,1245,azerbaijan,Carlos SainzSAI,18.0,Ferrari,49,DNF,0.0,3.0,1:43.357,1:42.503,1:41.805,3.0,1:46.866,202.223,1.0,1:46.173,1:43.950,1:42.968
+2024,1245,azerbaijan,Lance StrollSTR,19.0,Aston Martin Aramco Mercedes,45,DNF,0.0,14.0,1:43.370,1:43.404,,13.0,1:48.148,199.826,2.0,1:47.184,1:44.093,1:43.571
+2024,1245,azerbaijan,Yuki TsunodaTSU,,RB Honda RBPT,14,DNF,0.0,12.0,1:43.337,1:43.035,,11.0,1:50.887,194.89,1.0,1:47.708,1:44.645,1:43.503
+2024,1245,azerbaijan,Note - Norris scored an additional point for setting the fastest lap of the race.,,Note - Norris scored an additional point for setting the fastest lap of the race.,Note - Norris scored an additional point for setting the fastest lap of the race.,Note - Norris scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1246,singapore,Lando NorrisNOR,1.0,McLaren Mercedes,62,1:40:52.571,25.0,1.0,1:30.002,1:30.007,1:29.525,1.0,1:34.925,187.347,1.0,1:31.839,1:30.727,1:29.646
+2024,1246,singapore,Max VerstappenVER,2.0,Red Bull Racing Honda RBPT,62,+20.945s,18.0,2.0,1:30.157,1:29.680,1:29.728,2.0,1:35.967,185.313,1.0,1:32.097,1:32.021,1:30.540
+2024,1246,singapore,Oscar PiastriPIA,3.0,McLaren Mercedes,62,+41.823s,15.0,5.0,1:30.258,1:29.640,1:29.953,5.0,1:35.745,185.743,1.0,1:32.369,1:31.474,1:30.431
+2024,1246,singapore,George RussellRUS,4.0,Mercedes,62,+61.040s,12.0,4.0,1:30.811,1:30.153,1:29.867,4.0,1:37.047,183.251,1.0,1:33.334,1:31.488,1:30.125
+2024,1246,singapore,Charles LeclercLEC,5.0,Ferrari,62,+62.430s,10.0,9.0,1:30.786,1:29.747,DNF,9.0,1:35.371,186.471,1.0,1:31.763,1:30.785,1:30.559
+2024,1246,singapore,Lewis HamiltonHAM,6.0,Mercedes,62,+85.248s,8.0,3.0,1:30.393,1:29.929,1:29.841,3.0,1:37.393,182.6,1.0,1:32.679,1:31.709,1:30.864
+2024,1246,singapore,Carlos SainzSAI,7.0,Ferrari,62,+96.039s,6.0,10.0,1:30.670,1:30.108,DNS,10.0,1:36.561,184.173,1.0,1:31.952,1:31.356,1:30.807
+2024,1246,singapore,Fernando AlonsoALO,8.0,Aston Martin Aramco Mercedes,61,+1 lap,4.0,7.0,1:30.684,1:30.450,1:30.214,7.0,1:37.741,181.95,1.0,1:32.610,1:31.750,1:31.082
+2024,1246,singapore,Nico HulkenbergHUL,9.0,Haas Ferrari,61,+1 lap,2.0,6.0,1:30.724,1:30.150,1:30.115,6.0,1:37.470,182.456,1.0,1:33.797,1:31.667,1:31.187
+2024,1246,singapore,Sergio PerezPER,10.0,Red Bull Racing Honda RBPT,61,+1 lap,1.0,13.0,1:30.624,1:30.579,,13.0,1:37.477,182.443,1.0,1:32.767,1:31.598,1:31.440
+2024,1246,singapore,Franco ColapintoCOL,11.0,Williams Mercedes,61,+1 lap,0.0,12.0,1:30.704,1:30.481,,12.0,1:37.262,182.846,1.0,1:32.618,1:32.057,1:30.989
+2024,1246,singapore,Yuki TsunodaTSU,12.0,RB Honda RBPT,61,+1 lap,0.0,8.0,1:30.716,1:30.289,1:30.354,8.0,1:36.393,184.494,1.0,1:32.263,1:31.468,1:31.114
+2024,1246,singapore,Esteban OconOCO,13.0,Alpine Renault,61,+1 lap,0.0,15.0,1:30.958,1:30.769,,15.0,1:37.964,181.536,1.0,1:32.615,1:32.119,1:31.559
+2024,1246,singapore,Lance StrollSTR,14.0,Aston Martin Aramco Mercedes,61,+1 lap,0.0,17.0,1:31.094,,,17.0,1:37.851,181.745,1.0,1:32.778,1:31.957,1:31.719
+2024,1246,singapore,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,61,+1 lap,0.0,20.0,1:32.054,,,20.0,1:37.461,182.472,1.0,1:33.585,1:32.359,1:32.652
+2024,1246,singapore,Valtteri BottasBOT,16.0,Kick Sauber Ferrari,61,+1 lap,0.0,19.0,1:31.572,,,19.0,1:37.524,182.355,1.0,1:33.485,1:32.786,1:32.098
+2024,1246,singapore,Pierre GaslyGAS,17.0,Alpine Renault,61,+1 lap,0.0,18.0,1:31.312,,,18.0,1:36.927,183.478,1.0,1:32.694,1:32.222,1:31.367
+2024,1246,singapore,Daniel RicciardoRIC,18.0,RB Honda RBPT,61,+1 lap,0.0,16.0,1:31.085,,,16.0,1:34.486,188.218,3.0,1:32.375,1:31.478,1:31.561
+2024,1246,singapore,Kevin MagnussenMAG,19.0,Haas Ferrari,57,DNF,0.0,14.0,1:30.829,1:30.653,,14.0,1:37.425,182.54,2.0,1:33.377,1:31.793,1:31.265
+2024,1246,singapore,Alexander AlbonALB,,Williams Mercedes,15,DNF,0.0,11.0,1:30.679,1:30.474,,11.0,1:36.888,183.552,1.0,1:32.451,1:31.650,1:30.949
+2024,1247,united-states,Charles LeclercLEC,1.0,Ferrari,56,1:35:09.639,25.0,4.0,1:33.241,1:32.962,1:32.740,4.0,1:37.834,202.861,1.0,1:33.623,,
+2024,1247,united-states,Carlos SainzSAI,2.0,Ferrari,56,+8.562s,18.0,3.0,1:33.556,1:32.836,1:32.652,3.0,1:37.763,203.009,1.0,1:33.602,,
+2024,1247,united-states,Max VerstappenVER,3.0,Red Bull Racing Honda RBPT,56,+19.412s,15.0,2.0,1:33.046,1:32.584,1:32.361,2.0,1:38.117,202.276,1.0,1:33.855,,
+2024,1247,united-states,Lando NorrisNOR,4.0,McLaren Mercedes,56,+20.354s,12.0,1.0,1:33.616,1:32.851,1:32.330,1.0,1:37.679,203.183,1.0,1:33.868,,
+2024,1247,united-states,Oscar PiastriPIA,5.0,McLaren Mercedes,56,+21.921s,10.0,5.0,1:33.864,1:33.057,1:32.950,5.0,1:37.883,202.76,1.0,1:33.908,,
+2024,1247,united-states,George RussellRUS,6.0,Mercedes,56,+56.295s,8.0,6.0,1:33.536,1:33.142,1:32.974,20.0,1:37.656,203.231,1.0,1:34.093,,
+2024,1247,united-states,Sergio PerezPER,7.0,Red Bull Racing Honda RBPT,56,+59.072s,6.0,10.0,1:33.611,1:33.020,DNF,9.0,1:38.514,201.461,1.0,1:34.638,,
+2024,1247,united-states,Nico HulkenbergHUL,8.0,Haas Ferrari,56,+62.957s,4.0,12.0,1:33.601,1:33.544,,11.0,1:38.404,201.686,1.0,1:34.364,,
+2024,1247,united-states,Liam LawsonLAW,9.0,RB Honda RBPT,56,+70.563s,2.0,15.0,1:33.339,DNS,,19.0,1:38.091,202.33,1.0,1:34.443,,
+2024,1247,united-states,Franco ColapintoCOL,10.0,Williams Mercedes,56,+71.979s,1.0,17.0,1:34.062,,,15.0,1:37.611,203.325,1.0,1:35.248,,
+2024,1247,united-states,Kevin MagnussenMAG,11.0,Haas Ferrari,56,+79.782s,0.0,9.0,1:33.564,1:33.474,1:33.481,8.0,1:38.210,202.085,2.0,1:34.096,,
+2024,1247,united-states,Pierre GaslyGAS,12.0,Alpine Renault,56,+90.558s,0.0,7.0,1:33.550,1:33.162,1:33.018,6.0,1:38.311,201.877,1.0,1:34.375,,
+2024,1247,united-states,Fernando AlonsoALO,13.0,Aston Martin Aramco Mercedes,55,+1 lap,0.0,8.0,1:33.973,1:33.429,1:33.309,7.0,1:39.261,199.945,1.0,1:34.112,,
+2024,1247,united-states,Yuki TsunodaTSU,14.0,RB Honda RBPT,55,+1 lap,0.0,11.0,1:33.795,1:33.506,,10.0,1:39.193,200.082,1.0,1:34.313,,
+2024,1247,united-states,Lance StrollSTR,15.0,Aston Martin Aramco Mercedes,55,+1 lap,0.0,14.0,1:34.033,1:33.759,,13.0,1:39.214,200.04,1.0,1:34.619,,
+2024,1247,united-states,Alexander AlbonALB,16.0,Williams Mercedes,55,+1 lap,0.0,16.0,1:34.051,,,14.0,1:39.084,200.302,2.0,1:34.618,,
+2024,1247,united-states,Valtteri BottasBOT,17.0,Kick Sauber Ferrari,55,+1 lap,0.0,18.0,1:34.152,,,16.0,1:40.575,197.333,1.0,1:35.041,,
+2024,1247,united-states,Esteban OconOCO,18.0,Alpine Renault,55,+1 lap,0.0,13.0,1:33.986,1:33.597,,12.0,1:37.330,203.912,2.0,1:34.806,,
+2024,1247,united-states,Zhou GuanyuZHO,19.0,Kick Sauber Ferrari,55,+1 lap,0.0,20.0,1:34.228,,,18.0,1:39.272,199.923,2.0,1:37.219,,
+2024,1247,united-states,Lewis HamiltonHAM,,Mercedes,1,DNF,0.0,19.0,1:34.154,,,17.0,,,0.0,1:33.963,,
+2024,1247,united-states,Note - Gasly and Norris received five-second time penalties for leaving the track and gaining an advantage. Tsunoda received a five-second time penalty for forcing another driver off the track.,,Note - Gasly and Norris received five-second time penalties for leaving the track and gaining an advantage. Tsunoda received a five-second time penalty for forcing another driver off the track.,Note - Gasly and Norris received five-second time penalties for leaving the track and gaining an advantage. Tsunoda received a five-second time penalty for forcing another driver off the track.,Note - Gasly and Norris received five-second time penalties for leaving the track and gaining an advantage. Tsunoda received a five-second time penalty for forcing another driver off the track.,,,,,,,,,0.0,,,
+2024,1248,mexico,Carlos SainzSAI,1.0,Ferrari,71,1:40:55.800,25.0,1.0,1:16.778,1:16.515,1:15.946,1.0,1:20.137,193.348,1.0,1:18.315,1:17.699,1:16.832
+2024,1248,mexico,Lando NorrisNOR,2.0,McLaren Mercedes,71,+4.705s,18.0,3.0,1:16.505,1:16.301,1:16.260,3.0,1:19.691,194.43,1.0,,1:17.948,1:16.551
+2024,1248,mexico,Charles LeclercLEC,3.0,Ferrari,71,+34.387s,16.0,4.0,1:16.972,1:16.641,1:16.265,4.0,1:18.336,197.794,2.0,,1:17.887,1:17.232
+2024,1248,mexico,Lewis HamiltonHAM,4.0,Mercedes,71,+44.780s,12.0,6.0,1:17.306,1:16.973,1:16.651,6.0,1:20.371,192.785,1.0,,1:18.279,1:17.060
+2024,1248,mexico,George RussellRUS,5.0,Mercedes,71,+48.536s,10.0,5.0,1:17.194,1:16.937,1:16.356,5.0,1:20.731,191.926,1.0,1:17.998,1:19.041,1:17.341
+2024,1248,mexico,Max VerstappenVER,6.0,Red Bull Racing Honda RBPT,71,+59.558s,8.0,2.0,1:16.803,1:16.514,1:16.171,2.0,1:20.872,191.591,1.0,1:18.839,,1:17.003
+2024,1248,mexico,Kevin MagnussenMAG,7.0,Haas Ferrari,71,+63.642s,6.0,7.0,1:17.125,1:17.003,1:16.886,7.0,1:20.637,192.15,1.0,1:19.335,1:18.239,1:17.474
+2024,1248,mexico,Oscar PiastriPIA,8.0,McLaren Mercedes,71,+64.928s,4.0,17.0,1:17.597,,,17.0,1:20.064,193.525,1.0,1:18.958,1:17.877,1:16.492
+2024,1248,mexico,Nico HulkenbergHUL,9.0,Haas Ferrari,70,+1 lap,2.0,10.0,1:17.186,1:16.995,1:17.365,10.0,1:20.748,191.885,1.0,1:18.904,1:18.621,1:17.819
+2024,1248,mexico,Pierre GaslyGAS,10.0,Alpine Renault,70,+1 lap,1.0,8.0,1:17.149,1:17.048,1:16.892,8.0,1:21.274,190.643,1.0,1:19.340,1:18.942,1:18.454
+2024,1248,mexico,Lance StrollSTR,11.0,Aston Martin Aramco Mercedes,70,+1 lap,0.0,14.0,1:17.407,1:17.294,,14.0,1:21.311,190.557,1.0,1:19.600,1:18.890,1:17.900
+2024,1248,mexico,Franco ColapintoCOL,12.0,Williams Mercedes,70,+1 lap,0.0,16.0,1:17.558,,,16.0,1:20.090,193.462,1.0,1:19.109,1:18.908,1:17.712
+2024,1248,mexico,Esteban OconOCO,13.0,Alpine Renault,70,+1 lap,0.0,19.0,1:17.617,,,20.0,1:20.659,192.097,1.0,1:18.996,1:18.656,1:18.324
+2024,1248,mexico,Valtteri BottasBOT,14.0,Kick Sauber Ferrari,70,+1 lap,0.0,15.0,1:17.393,1:17.817,,15.0,1:21.085,191.088,1.0,1:19.048,1:18.351,1:17.639
+2024,1248,mexico,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,70,+1 lap,0.0,20.0,1:18.072,,,19.0,1:21.553,189.991,1.0,,1:18.980,1:18.428
+2024,1248,mexico,Liam LawsonLAW,16.0,RB Honda RBPT,70,+1 lap,0.0,12.0,1:17.380,1:17.162,,12.0,1:19.502,194.893,2.0,1:19.093,1:18.560,1:17.494
+2024,1248,mexico,Sergio PerezPER,17.0,Red Bull Racing Honda RBPT,70,+1 lap,0.0,18.0,1:17.611,,,18.0,1:19.209,195.614,3.0,1:19.094,1:18.392,1:17.787
+2024,1248,mexico,Fernando AlonsoALO,,Aston Martin Aramco Mercedes,15,DNF,0.0,13.0,1:17.307,1:17.168,,13.0,1:22.722,187.306,0.0,,1:18.579,1:17.798
+2024,1248,mexico,Alexander AlbonALB,,Williams Mercedes,0,DNF,0.0,9.0,1:17.189,1:16.988,1:17.065,9.0,,,0.0,1:19.812,,1:17.511
+2024,1248,mexico,Yuki TsunodaTSU,,RB Honda RBPT,0,DNF,0.0,11.0,1:17.182,1:17.129,,11.0,,,0.0,1:18.699,1:17.878,1:17.302
+2024,1248,mexico,Note - Leclerc scored an additional point for setting the fastest lap of the race. Colapinto received a 10-second time penalty for causing a collision.,,Note - Leclerc scored an additional point for setting the fastest lap of the race. Colapinto received a 10-second time penalty for causing a collision.,Note - Leclerc scored an additional point for setting the fastest lap of the race. Colapinto received a 10-second time penalty for causing a collision.,Note - Leclerc scored an additional point for setting the fastest lap of the race. Colapinto received a 10-second time penalty for causing a collision.,,,,,,,,,0.0,,,
+2024,1249,brazil,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,69,2:06:54.430,26.0,12.0,1:28.522,1:27.771,,17.0,1:20.472,192.767,1.0,1:11.712,,
+2024,1249,brazil,Esteban OconOCO,2.0,Alpine Renault,69,+19.477s,18.0,4.0,1:29.171,1:26.206,1:24.475,4.0,1:21.771,189.705,1.0,1:11.827,,
+2024,1249,brazil,Pierre GaslyGAS,3.0,Alpine Renault,69,+22.532s,15.0,15.0,1:29.420,1:29.614,,13.0,1:21.645,189.998,1.0,1:11.216,,
+2024,1249,brazil,George RussellRUS,4.0,Mercedes,69,+23.265s,12.0,2.0,1:29.121,1:26.307,1:23.578,2.0,1:21.645,189.998,2.0,1:10.791,,
+2024,1249,brazil,Charles LeclercLEC,5.0,Ferrari,69,+30.177s,10.0,6.0,1:29.839,1:26.097,1:24.525,6.0,1:21.631,190.03,2.0,1:11.038,,
+2024,1249,brazil,Lando NorrisNOR,6.0,McLaren Mercedes,69,+31.372s,8.0,1.0,1:30.944,1:24.844,1:23.405,1.0,1:21.517,190.296,2.0,1:10.610,,
+2024,1249,brazil,Yuki TsunodaTSU,7.0,RB Honda RBPT,69,+42.056s,6.0,3.0,1:29.172,1:26.464,1:24.111,3.0,1:21.828,189.573,2.0,1:11.483,,
+2024,1249,brazil,Oscar PiastriPIA,8.0,McLaren Mercedes,69,+44.943s,4.0,8.0,1:30.114,1:25.179,1:24.686,8.0,1:21.532,190.261,2.0,1:10.950,,
+2024,1249,brazil,Liam LawsonLAW,9.0,RB Honda RBPT,69,+50.452s,2.0,5.0,1:30.758,1:25.654,1:24.484,5.0,1:22.123,188.892,2.0,1:11.301,,
+2024,1249,brazil,Lewis HamiltonHAM,10.0,Mercedes,69,+50.753s,1.0,16.0,1:31.150,,,14.0,1:22.041,189.081,2.0,1:11.754,,
+2024,1249,brazil,Sergio PerezPER,11.0,Red Bull Racing Honda RBPT,69,+51.531s,0.0,13.0,1:30.035,1:28.158,,12.0,1:22.143,188.846,2.0,1:11.845,,
+2024,1249,brazil,Oliver BearmanBEA,12.0,Haas Ferrari,69,+57.085s,0.0,17.0,1:31.229,,,15.0,1:22.494,188.042,2.0,1:10.805,,
+2024,1249,brazil,Valtteri BottasBOT,13.0,Kick Sauber Ferrari,69,+63.588s,0.0,11.0,1:30.633,1:26.472,,11.0,1:22.877,187.173,1.0,1:11.651,,
+2024,1249,brazil,Fernando AlonsoALO,14.0,Aston Martin Aramco Mercedes,69,+78.049s,0.0,9.0,1:30.207,1:25.035,1:28.998,9.0,1:22.293,188.502,2.0,1:11.215,,
+2024,1249,brazil,Zhou GuanyuZHO,15.0,Kick Sauber Ferrari,69,+79.649s,0.0,20.0,1:32.263,,,19.0,1:23.058,186.765,4.0,1:12.883,,
+2024,1249,brazil,Carlos SainzSAI,,Ferrari,38,DNF,0.0,14.0,1:30.303,1:29.406,,20.0,1:24.201,184.23,2.0,1:11.100,,
+2024,1249,brazil,Franco ColapintoCOL,,Williams Mercedes,30,DNF,0.0,18.0,1:31.270,,,16.0,1:24.296,184.022,2.0,1:11.619,,
+2024,1249,brazil,Alexander AlbonALB,,Williams Mercedes,0,DNS,0.0,7.0,1:29.072,1:25.889,1:24.657,7.0,,,0.0,1:10.955,,
+2024,1249,brazil,Lance StrollSTR,,Aston Martin Aramco Mercedes,0,DNS,0.0,10.0,1:30.580,1:26.334,,10.0,,,0.0,1:11.783,,
+2024,1249,brazil,Nico HulkenbergHUL,,Haas Ferrari,,DSQ,0.0,19.0,1:31.623,,,18.0,1:23.764,185.191,3.0,1:11.124,,
+2024,1249,brazil,Note - Verstappen scored an additional point for setting the fastest lap of the race. Piastri received a 10-second time penalty for causing a collision. Hulkenberg was disqualified for receiving physical assistance.,,Note - Verstappen scored an additional point for setting the fastest lap of the race. Piastri received a 10-second time penalty for causing a collision. Hulkenberg was disqualified for receiving physical assistance.,Note - Verstappen scored an additional point for setting the fastest lap of the race. Piastri received a 10-second time penalty for causing a collision. Hulkenberg was disqualified for receiving physical assistance.,Note - Verstappen scored an additional point for setting the fastest lap of the race. Piastri received a 10-second time penalty for causing a collision. Hulkenberg was disqualified for receiving physical assistance.,,,,,,,,,0.0,,,
+2024,1250,las-vegas,George RussellRUS,1.0,Mercedes,50,1:22:05.969,25.0,1.0,1:33.186,1:32.779,1:32.312,1.0,1:35.717,233.225,2.0,1:35.397,1:34.015,1:33.570
+2024,1250,las-vegas,Lewis HamiltonHAM,2.0,Mercedes,50,+7.313s,18.0,10.0,1:33.225,1:32.567,1:48.106,10.0,1:35.480,233.803,2.0,1:35.001,1:33.825,1:34.341
+2024,1250,las-vegas,Carlos SainzSAI,3.0,Ferrari,50,+11.906s,15.0,2.0,1:33.484,1:32.711,1:32.410,2.0,1:35.875,232.84,2.0,1:36.218,1:34.105,1:33.918
+2024,1250,las-vegas,Charles LeclercLEC,4.0,Ferrari,50,+14.283s,12.0,4.0,1:33.446,1:33.016,1:32.783,4.0,1:35.674,233.329,2.0,1:36.007,1:34.313,1:34.941
+2024,1250,las-vegas,Max VerstappenVER,5.0,Red Bull Racing Honda RBPT,50,+16.582s,10.0,5.0,1:33.299,1:33.085,1:32.797,5.0,1:36.248,231.938,2.0,1:36.038,1:35.834,1:34.137
+2024,1250,las-vegas,Lando NorrisNOR,6.0,McLaren Mercedes,50,+43.385s,9.0,6.0,1:33.592,1:33.099,1:33.008,6.0,1:34.876,235.292,3.0,1:35.954,1:33.836,1:34.008
+2024,1250,las-vegas,Oscar PiastriPIA,7.0,McLaren Mercedes,50,+51.365s,6.0,8.0,1:33.450,1:33.024,1:33.033,8.0,1:36.598,231.097,2.0,1:36.451,1:34.798,1:33.785
+2024,1250,las-vegas,Nico HulkenbergHUL,8.0,Haas Ferrari,50,+59.808s,4.0,9.0,1:33.920,1:33.114,1:33.062,9.0,1:36.585,231.129,2.0,1:37.200,1:34.818,1:34.908
+2024,1250,las-vegas,Yuki TsunodaTSU,9.0,RB Honda RBPT,50,+62.808s,2.0,7.0,1:33.789,1:33.089,1:33.029,7.0,1:36.957,230.242,2.0,1:38.574,1:34.997,1:36.215
+2024,1250,las-vegas,Sergio PerezPER,10.0,Red Bull Racing Honda RBPT,50,+63.114s,1.0,16.0,1:34.155,,,15.0,1:36.326,231.75,2.0,1:36.536,1:36.055,1:35.061
+2024,1250,las-vegas,Fernando AlonsoALO,11.0,Aston Martin Aramco Mercedes,50,+69.195s,0.0,17.0,1:34.258,,,16.0,1:36.553,231.205,2.0,1:36.262,1:35.440,1:35.938
+2024,1250,las-vegas,Kevin MagnussenMAG,12.0,Haas Ferrari,50,+69.803s,0.0,12.0,1:33.991,1:33.297,,12.0,1:36.557,231.196,1.0,1:36.811,1:34.686,1:34.883
+2024,1250,las-vegas,Zhou GuanyuZHO,13.0,Kick Sauber Ferrari,50,+74.085s,0.0,13.0,1:34.079,1:33.566,,13.0,1:36.324,231.755,2.0,1:38.350,1:35.765,1:36.988
+2024,1250,las-vegas,Franco ColapintoCOL,14.0,Williams Mercedes,50,+75.172s,0.0,14.0,1:33.746,1:33.749,,20.0,1:36.867,230.456,2.0,1:38.025,1:35.868,1:34.723
+2024,1250,las-vegas,Lance StrollSTR,15.0,Aston Martin Aramco Mercedes,50,+84.102s,0.0,20.0,1:34.484,,,18.0,1:37.179,229.716,2.0,1:36.817,1:35.251,1:36.950
+2024,1250,las-vegas,Liam LawsonLAW,16.0,RB Honda RBPT,50,+91.005s,0.0,15.0,1:34.087,1:34.257,,14.0,1:36.980,230.187,2.0,1:38.730,1:35.671,1:36.544
+2024,1250,las-vegas,Esteban OconOCO,17.0,Alpine Renault,49,+1 lap,0.0,11.0,1:33.968,1:33.221,,11.0,1:36.511,231.306,3.0,1:37.152,1:35.221,1:35.460
+2024,1250,las-vegas,Valtteri BottasBOT,18.0,Kick Sauber Ferrari,49,+1 lap,0.0,19.0,1:34.430,,,19.0,1:36.601,231.09,2.0,1:37.765,1:35.020,1:36.412
+2024,1250,las-vegas,Alexander AlbonALB,,Williams Mercedes,25,DNF,0.0,18.0,1:34.425,,,17.0,1:38.008,227.773,1.0,1:36.948,1:39.629,1:34.407
+2024,1250,las-vegas,Pierre GaslyGAS,,Alpine Renault,15,DNF,0.0,3.0,1:33.691,1:32.879,1:32.664,3.0,1:38.314,227.064,1.0,1:36.478,1:34.651,1:34.905
+2024,1250,las-vegas,Note - Norris scored an additional point for setting the fastest lap of the race.,,Note - Norris scored an additional point for setting the fastest lap of the race.,Note - Norris scored an additional point for setting the fastest lap of the race.,Note - Norris scored an additional point for setting the fastest lap of the race.,,,,,,,,,0.0,,,
+2024,1251,qatar,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,57,1:31:05.323,25.0,1.0,1:21.579,1:20.687,1:20.520,2.0,1:22.905,235.31,3.0,1:23.213,,
+2024,1251,qatar,Charles LeclercLEC,2.0,Ferrari,57,+6.031s,18.0,5.0,1:21.278,1:21.000,1:20.852,5.0,1:23.242,234.357,3.0,1:21.953,,
+2024,1251,qatar,Oscar PiastriPIA,3.0,McLaren Mercedes,57,+6.819s,15.0,4.0,1:21.821,1:21.121,1:20.829,4.0,1:23.218,234.425,3.0,1:22.425,,
+2024,1251,qatar,George RussellRUS,4.0,Mercedes,57,+14.104s,12.0,2.0,1:21.241,1:21.069,1:20.575,1.0,1:23.355,234.039,4.0,1:23.160,,
+2024,1251,qatar,Pierre GaslyGAS,5.0,Alpine Renault,57,+16.782s,10.0,11.0,1:21.843,1:21.437,,11.0,1:23.705,233.061,3.0,1:23.620,,
+2024,1251,qatar,Carlos SainzSAI,6.0,Ferrari,57,+17.476s,8.0,7.0,1:21.447,1:21.199,1:21.041,7.0,1:23.465,233.731,3.0,1:22.535,,
+2024,1251,qatar,Fernando AlonsoALO,7.0,Aston Martin Aramco Mercedes,57,+19.867s,6.0,8.0,1:21.608,1:21.208,1:21.251,8.0,1:23.667,233.167,3.0,1:23.227,,
+2024,1251,qatar,Zhou GuanyuZHO,8.0,Kick Sauber Ferrari,57,+25.360s,4.0,12.0,1:22.103,1:21.501,,12.0,1:23.889,232.55,3.0,1:23.880,,
+2024,1251,qatar,Kevin MagnussenMAG,9.0,Haas Ferrari,57,+32.177s,2.0,10.0,1:21.891,1:21.387,1:21.500,10.0,1:24.259,231.528,3.0,1:23.715,,
+2024,1251,qatar,Lando NorrisNOR,10.0,McLaren Mercedes,57,+35.762s,2.0,3.0,1:21.578,1:20.983,1:20.772,3.0,1:22.384,236.798,4.0,1:22.378,,
+2024,1251,qatar,Valtteri BottasBOT,11.0,Kick Sauber Ferrari,57,+50.243s,0.0,13.0,1:21.927,1:21.731,,13.0,1:25.533,228.08,3.0,1:23.064,,
+2024,1251,qatar,Lewis HamiltonHAM,12.0,Mercedes,57,+56.122s,0.0,6.0,1:21.637,1:21.095,1:21.011,6.0,1:23.865,232.616,4.0,1:23.188,,
+2024,1251,qatar,Yuki TsunodaTSU,13.0,RB Honda RBPT,57,+61.100s,0.0,14.0,1:22.364,1:21.771,,14.0,1:26.144,226.462,4.0,1:23.045,,
+2024,1251,qatar,Liam LawsonLAW,14.0,RB Honda RBPT,57,+62.656s,0.0,17.0,1:22.411,,,17.0,1:26.076,226.641,4.0,1:23.562,,
+2024,1251,qatar,Alexander AlbonALB,15.0,Williams Mercedes,56,+1 lap,0.0,16.0,1:22.390,,,16.0,1:25.559,228.011,4.0,1:23.161,,
+2024,1251,qatar,Nico HulkenbergHUL,,Haas Ferrari,39,DNF,0.0,18.0,1:22.442,,,18.0,1:25.767,227.458,4.0,1:23.245,,
+2024,1251,qatar,Sergio PerezPER,,Red Bull Racing Honda RBPT,38,DNF,0.0,9.0,1:21.675,1:21.425,1:21.425,9.0,1:25.288,228.735,3.0,1:24.039,,
+2024,1251,qatar,Lance StrollSTR,,Aston Martin Aramco Mercedes,8,DNF,0.0,15.0,1:22.011,1:21.911,,15.0,1:30.935,214.531,2.0,1:23.099,,
+2024,1251,qatar,Franco ColapintoCOL,,Williams Mercedes,0,DNF,0.0,19.0,1:22.594,,,19.0,,,0.0,1:24.200,,
+2024,1251,qatar,Esteban OconOCO,,Alpine Renault,0,DNF,0.0,20.0,1:22.714,,,20.0,,,0.0,1:24.280,,
+2024,1251,qatar,Note - Norris scored an additional point for setting the fastest lap of the race. Russell received a five-second time penalty for falling more than 10 car lengths behind the Safety Car.,,Note - Norris scored an additional point for setting the fastest lap of the race. Russell received a five-second time penalty for falling more than 10 car lengths behind the Safety Car.,Note - Norris scored an additional point for setting the fastest lap of the race. Russell received a five-second time penalty for falling more than 10 car lengths behind the Safety Car.,Note - Norris scored an additional point for setting the fastest lap of the race. Russell received a five-second time penalty for falling more than 10 car lengths behind the Safety Car.,,,,,,,,,0.0,,,
+2024,1252,abu-dhabi,Lando NorrisNOR,1.0,McLaren Mercedes,58,1:26:33.291,25.0,1.0,1:23.682,1:23.098,1:22.595,1.0,1:27.438,217.429,1.0,1:24.542,1:23.517,1:23.626
+2024,1252,abu-dhabi,Carlos SainzSAI,2.0,Ferrari,58,+5.832s,18.0,3.0,1:23.487,1:22.985,1:22.824,3.0,1:27.765,216.619,1.0,,1:24.099,1:23.871
+2024,1252,abu-dhabi,Charles LeclercLEC,3.0,Ferrari,58,+31.928s,15.0,14.0,1:23.302,1:23.833,,19.0,1:28.018,215.996,1.0,1:24.321,1:24.201,1:24.098
+2024,1252,abu-dhabi,Lewis HamiltonHAM,4.0,Mercedes,58,+36.483s,12.0,18.0,1:23.887,,,16.0,1:27.278,217.828,1.0,1:24.806,1:24.119,1:23.823
+2024,1252,abu-dhabi,George RussellRUS,5.0,Mercedes,58,+37.538s,10.0,7.0,1:23.678,1:23.283,1:23.132,6.0,1:28.195,215.563,1.0,1:25.165,1:24.534,1:24.075
+2024,1252,abu-dhabi,Max VerstappenVER,6.0,Red Bull Racing Honda RBPT,58,+49.847s,8.0,5.0,1:23.516,1:22.998,1:22.945,4.0,1:27.765,216.619,1.0,,1:24.598,1:23.844
+2024,1252,abu-dhabi,Pierre GaslyGAS,7.0,Alpine Renault,58,+72.560s,6.0,6.0,1:23.548,1:23.086,1:22.984,5.0,1:29.251,213.012,1.0,1:25.333,1:24.517,1:24.408
+2024,1252,abu-dhabi,Nico HulkenbergHUL,8.0,Haas Ferrari,58,+75.554s,4.0,4.0,1:23.722,1:23.040,1:22.886,7.0,1:29.152,213.249,1.0,1:25.373,1:23.979,1:24.093
+2024,1252,abu-dhabi,Fernando AlonsoALO,9.0,Aston Martin Aramco Mercedes,58,+82.373s,2.0,8.0,1:23.794,1:23.268,1:23.196,8.0,1:27.948,216.168,2.0,1:25.504,1:24.574,1:24.453
+2024,1252,abu-dhabi,Oscar PiastriPIA,10.0,McLaren Mercedes,58,+83.821s,1.0,2.0,1:23.640,1:23.199,1:22.804,2.0,1:27.690,216.804,2.0,,1:23.751,1:23.433
+2024,1252,abu-dhabi,Alexander AlbonALB,11.0,Williams Mercedes,57,+1 lap,0.0,16.0,1:23.821,,,18.0,1:29.438,212.567,1.0,,1:24.269,1:24.378
+2024,1252,abu-dhabi,Yuki TsunodaTSU,12.0,RB Honda RBPT,57,+1 lap,0.0,11.0,1:23.735,1:23.419,,11.0,1:29.200,213.134,1.0,,1:24.497,1:24.343
+2024,1252,abu-dhabi,Zhou GuanyuZHO,13.0,Kick Sauber Ferrari,57,+1 lap,0.0,17.0,1:23.880,,,15.0,1:27.982,216.085,2.0,1:25.921,1:24.557,1:24.668
+2024,1252,abu-dhabi,Lance StrollSTR,14.0,Aston Martin Aramco Mercedes,57,+1 lap,0.0,13.0,1:23.729,1:23.784,,13.0,1:28.604,214.568,2.0,,1:24.686,1:24.531
+2024,1252,abu-dhabi,Jack DoohanDOO,15.0,Alpine Renault,57,+1 lap,0.0,20.0,1:24.105,,,17.0,1:29.121,213.323,1.0,1:26.304,1:24.961,1:24.434
+2024,1252,abu-dhabi,Kevin MagnussenMAG,16.0,Haas Ferrari,57,+1 lap,0.0,15.0,1:23.632,1:23.877,,14.0,1:25.637,222.002,4.0,1:25.444,1:24.235,1:24.094
+2024,1252,abu-dhabi,Liam LawsonLAW,17.0,RB Honda RBPT,55,DNF,0.0,12.0,1:23.733,1:23.472,,12.0,1:28.751,214.212,3.0,1:25.563,1:24.503,1:24.519
+2024,1252,abu-dhabi,Valtteri BottasBOT,,Kick Sauber Ferrari,30,DNF,0.0,9.0,1:23.481,1:23.341,1:23.204,9.0,1:29.482,212.462,1.0,1:25.611,1:24.230,1:24.479
+2024,1252,abu-dhabi,Franco ColapintoCOL,,Williams Mercedes,26,DNF,0.0,19.0,1:23.912,,,20.0,1:29.411,212.631,1.0,1:25.382,1:25.265,1:24.766
+2024,1252,abu-dhabi,Sergio PerezPER,,Red Bull Racing Honda RBPT,0,DNF,0.0,10.0,1:23.559,1:23.379,1:23.264,10.0,,,0.0,1:25.483,1:24.555,1:24.283
+2024,1252,abu-dhabi,Note - Stroll received a five-second time penalty for track limits infringements.,,Note - Stroll received a five-second time penalty for track limits infringements.,Note - Stroll received a five-second time penalty for track limits infringements.,Note - Stroll received a five-second time penalty for track limits infringements.,,,,,,,,,0.0,,,
+2025,1254,australia,Lando NorrisNOR,1.0,McLaren Mercedes,57,1:42:06.304,25.0,1.0,1:15.912,1:15.415,1:15.096,1.0,1:22.167,231.246,5.0,1:17.252,1:16.580,1:16.597
+2025,1254,australia,Max VerstappenVER,2.0,Red Bull Racing Honda RBPT,57,+0.895s,18.0,3.0,1:16.018,1:15.565,1:15.481,3.0,1:23.081,228.702,5.0,1:17.696,1:17.063,1:16.002
+2025,1254,australia,George RussellRUS,3.0,Mercedes,57,+8.481s,15.0,4.0,1:15.971,1:15.798,1:15.546,4.0,1:25.065,223.368,5.0,1:17.716,1:17.282,1:15.960
+2025,1254,australia,Kimi AntonelliANT,4.0,Mercedes,57,+10.135s,12.0,16.0,1:16.525,,,16.0,1:24.901,223.799,5.0,1:18.390,1:17.634,1:16.206
+2025,1254,australia,Alexander AlbonALB,5.0,Williams Mercedes,57,+12.773s,10.0,6.0,1:16.245,1:16.017,1:15.737,6.0,1:24.597,224.603,5.0,1:17.713,1:17.302,1:16.258
+2025,1254,australia,Lance StrollSTR,6.0,Aston Martin Aramco Mercedes,57,+17.413s,8.0,13.0,1:16.369,1:16.483,,13.0,1:25.538,222.132,5.0,1:18.057,1:17.279,1:16.948
+2025,1254,australia,Nico HulkenbergHUL,7.0,Kick Sauber Ferrari,57,+18.423s,6.0,17.0,1:16.579,,,17.0,1:25.243,222.901,5.0,1:18.586,1:17.161,1:17.146
+2025,1254,australia,Charles LeclercLEC,8.0,Ferrari,57,+19.826s,4.0,7.0,1:16.029,1:15.827,1:15.755,7.0,1:25.271,222.828,5.0,1:17.461,1:16.439,1:16.188
+2025,1254,australia,Oscar PiastriPIA,9.0,McLaren Mercedes,57,+20.448s,2.0,2.0,1:16.062,1:15.468,1:15.180,2.0,1:23.242,228.259,5.0,1:17.670,1:16.563,1:15.921
+2025,1254,australia,Lewis HamiltonHAM,10.0,Ferrari,57,+22.473s,1.0,8.0,1:16.213,1:15.919,1:15.973,8.0,1:24.218,225.614,5.0,1:18.071,1:16.859,1:16.378
+2025,1254,australia,Pierre GaslyGAS,11.0,Alpine Renault,57,+26.502s,0.0,9.0,1:16.328,1:16.112,1:15.980,9.0,1:25.020,223.486,5.0,1:18.505,1:17.493,1:16.719
+2025,1254,australia,Yuki TsunodaTSU,12.0,Racing Bulls Honda RBPT,57,+29.884s,0.0,5.0,1:16.225,1:16.009,1:15.670,5.0,1:24.194,225.678,5.0,1:18.061,1:16.784,1:16.455
+2025,1254,australia,Esteban OconOCO,13.0,Haas Ferrari,57,+33.161s,0.0,19.0,1:17.147,,,19.0,1:26.764,218.994,5.0,1:19.139,1:18.034,1:17.373
+2025,1254,australia,Oliver BearmanBEA,14.0,Haas Ferrari,57,+40.351s,0.0,,DNS,,,20.0,1:27.603,216.896,5.0,1:19.312,,
+2025,1254,australia,Liam LawsonLAW,,Red Bull Racing Honda RBPT,46,DNF,0.0,18.0,1:17.094,,,18.0,1:22.970,229.008,4.0,1:18.455,1:17.640,
+2025,1254,australia,Gabriel BortoletoBOR,,Kick Sauber Ferrari,45,DNF,0.0,15.0,1:16.516,1:17.520,,15.0,1:24.192,225.684,5.0,1:18.438,1:17.847,1:16.707
+2025,1254,australia,Fernando AlonsoALO,,Aston Martin Aramco Mercedes,32,DNF,0.0,12.0,1:16.288,1:16.453,,12.0,1:28.819,213.927,3.0,1:17.736,1:17.330,1:17.270
+2025,1254,australia,Carlos SainzSAI,,Williams Mercedes,0,DNF,0.0,10.0,1:16.360,1:15.931,1:16.062,10.0,,,0.0,1:17.401,1:17.302,1:16.252
+2025,1254,australia,Jack DoohanDOO,,Alpine Renault,0,DNF,0.0,14.0,1:16.315,1:16.863,,14.0,,,0.0,1:18.232,1:17.394,1:16.993
+2025,1254,australia,Isack HadjarHAD,,Racing Bulls Honda RBPT,0,DNF,0.0,11.0,1:16.354,1:16.175,,11.0,,,0.0,1:17.847,1:17.019,1:16.732
+2025,1255,china,Oscar PiastriPIA,1.0,McLaren Mercedes,56,1:30:55.026,25.0,1.0,1:31.591,1:31.200,1:30.641,1.0,1:35.520,205.439,1.0,1:32.153,,
+2025,1255,china,Lando NorrisNOR,2.0,McLaren Mercedes,56,+9.748s,18.0,3.0,1:30.983,1:30.787,1:30.793,3.0,1:35.454,205.581,1.0,1:31.504,,
+2025,1255,china,George RussellRUS,3.0,Mercedes,56,+11.097s,15.0,2.0,1:31.295,1:31.307,1:30.723,2.0,1:35.816,204.805,1.0,1:32.377,,
+2025,1255,china,Max VerstappenVER,4.0,Red Bull Racing Honda RBPT,56,+16.656s,12.0,4.0,1:31.424,1:31.142,1:30.817,4.0,1:35.488,205.508,1.0,1:33.284,,
+2025,1255,china,Esteban OconOCO,5.0,Haas Ferrari,56,+49.969s,10.0,11.0,1:31.876,1:31.625,,11.0,1:35.740,204.967,1.0,1:33.056,,
+2025,1255,china,Kimi AntonelliANT,6.0,Mercedes,56,+53.748s,8.0,8.0,1:31.676,1:31.590,1:31.103,8.0,1:36.046,204.314,1.0,1:32.874,,
+2025,1255,china,Alexander AlbonALB,7.0,Williams Mercedes,56,+56.321s,6.0,10.0,1:31.503,1:31.595,1:31.706,10.0,1:36.254,203.873,1.0,1:32.687,,
+2025,1255,china,Oliver BearmanBEA,8.0,Haas Ferrari,56,+61.303s,4.0,17.0,1:32.018,,,17.0,1:36.363,203.642,1.0,1:32.967,,
+2025,1255,china,Lance StrollSTR,9.0,Aston Martin Aramco Mercedes,56,+70.204s,2.0,14.0,1:31.923,1:31.773,,14.0,1:36.044,204.318,1.0,1:32.984,,
+2025,1255,china,Carlos SainzSAI,10.0,Williams Mercedes,56,+76.387s,1.0,15.0,1:31.628,1:31.840,,15.0,1:36.779,202.767,1.0,1:33.145,,
+2025,1255,china,Isack HadjarHAD,11.0,Racing Bulls Honda RBPT,56,+78.875s,0.0,7.0,1:31.162,1:31.253,1:31.079,7.0,1:35.868,204.693,2.0,1:33.385,,
+2025,1255,china,Liam LawsonLAW,12.0,Red Bull Racing Honda RBPT,56,+81.147s,0.0,20.0,1:32.174,,,20.0,1:35.985,204.444,2.0,1:33.631,,
+2025,1255,china,Jack DoohanDOO,13.0,Alpine Renault,56,+88.401s,0.0,18.0,1:32.092,,,18.0,1:36.424,203.513,1.0,1:33.923,,
+2025,1255,china,Gabriel BortoletoBOR,14.0,Kick Sauber Ferrari,55,+1 lap,0.0,19.0,1:32.141,,,19.0,1:35.874,204.681,2.0,1:33.822,,
+2025,1255,china,Nico HulkenbergHUL,15.0,Kick Sauber Ferrari,55,+1 lap,0.0,12.0,1:31.921,1:31.632,,12.0,1:37.275,201.733,1.0,1:32.507,,
+2025,1255,china,Yuki TsunodaTSU,16.0,Racing Bulls Honda RBPT,55,+1 lap,0.0,9.0,1:31.238,1:31.260,1:31.638,9.0,1:35.871,204.687,3.0,1:32.934,,
+2025,1255,china,Fernando AlonsoALO,,Aston Martin Aramco Mercedes,4,DNF,0.0,13.0,1:31.719,1:31.688,,13.0,1:39.256,197.706,0.0,1:32.766,,
+2025,1255,china,Charles LeclercLEC,,Ferrari,,DSQ,0.0,6.0,1:31.579,1:31.450,1:31.021,6.0,1:36.157,204.078,1.0,1:31.958,,
+2025,1255,china,Lewis HamiltonHAM,,Ferrari,,DSQ,0.0,5.0,1:31.690,1:31.501,1:30.927,5.0,1:35.069,206.414,2.0,1:32.195,,
+2025,1255,china,Pierre GaslyGAS,,Alpine Renault,,DSQ,0.0,16.0,1:31.992,,,16.0,1:36.425,203.511,1.0,1:33.123,,
+2025,1255,china,"Note - Doohan received a 10-second time penalty for forcing another driver off track. Leclerc, Gasly and Hamilton disqualified for technical infringements.",,"Note - Doohan received a 10-second time penalty for forcing another driver off track. Leclerc, Gasly and Hamilton disqualified for technical infringements.","Note - Doohan received a 10-second time penalty for forcing another driver off track. Leclerc, Gasly and Hamilton disqualified for technical infringements.","Note - Doohan received a 10-second time penalty for forcing another driver off track. Leclerc, Gasly and Hamilton disqualified for technical infringements.",,,,,,,,,0.0,,,
+2025,1256,japan,Max VerstappenVER,1.0,Red Bull Racing Honda RBPT,53,1:22:06.983,25.0,1.0,1:27.943,1:27.502,1:26.983,1.0,1:31.041,229.624,1.0,1:29.065,1:28.670,1:28.497
+2025,1256,japan,Lando NorrisNOR,2.0,McLaren Mercedes,53,+1.423s,18.0,2.0,1:27.845,1:27.146,1:26.995,2.0,1:31.116,229.435,1.0,1:28.549,1:28.163,1:27.965
+2025,1256,japan,Oscar PiastriPIA,3.0,McLaren Mercedes,53,+2.129s,15.0,3.0,1:27.687,1:27.507,1:27.027,3.0,1:31.039,229.629,1.0,1:29.708,1:28.114,1:27.991
+2025,1256,japan,Charles LeclercLEC,4.0,Ferrari,53,+16.097s,12.0,4.0,1:27.920,1:27.555,1:27.299,4.0,1:31.469,228.549,1.0,1:28.965,1:28.586,1:28.414
+2025,1256,japan,George RussellRUS,5.0,Mercedes,53,+17.362s,10.0,5.0,1:27.843,1:27.400,1:27.318,5.0,1:31.357,228.829,1.0,1:28.712,1:28.567,1:28.077
+2025,1256,japan,Kimi AntonelliANT,6.0,Mercedes,53,+18.671s,8.0,6.0,1:27.968,1:27.639,1:27.555,6.0,1:30.965,229.815,1.0,1:29.284,1:29.733,1:29.126
+2025,1256,japan,Lewis HamiltonHAM,7.0,Ferrari,53,+29.182s,6.0,8.0,1:27.942,1:27.610,1:27.610,8.0,1:31.406,228.707,1.0,1:29.051,1:28.544,1:28.524
+2025,1256,japan,Isack HadjarHAD,8.0,Racing Bulls Honda RBPT,53,+37.134s,4.0,7.0,1:28.278,1:27.775,1:27.569,7.0,1:31.317,228.929,1.0,1:29.225,1:28.518,1:28.786
+2025,1256,japan,Alexander AlbonALB,9.0,Williams Mercedes,53,+40.367s,2.0,9.0,1:28.218,1:27.783,1:27.615,9.0,1:31.125,229.412,1.0,1:29.392,1:29.023,1:28.554
+2025,1256,japan,Oliver BearmanBEA,10.0,Haas Ferrari,53,+54.529s,1.0,10.0,1:28.228,1:27.711,1:27.867,10.0,1:32.006,227.215,1.0,1:30.077,1:29.654,1:30.084
+2025,1256,japan,Fernando AlonsoALO,11.0,Aston Martin Aramco Mercedes,53,+57.333s,0.0,13.0,1:28.337,1:27.897,,12.0,1:31.770,227.799,1.0,1:29.222,1:29.978,1:29.772
+2025,1256,japan,Yuki TsunodaTSU,12.0,Red Bull Racing Honda RBPT,53,+58.401s,0.0,15.0,1:27.967,1:28.000,,14.0,1:31.871,227.549,1.0,1:29.172,1:30.625,1:28.785
+2025,1256,japan,Pierre GaslyGAS,13.0,Alpine Renault,53,+62.122s,0.0,11.0,1:28.186,1:27.822,,11.0,1:31.820,227.675,1.0,1:29.547,1:28.757,1:28.603
+2025,1256,japan,Carlos SainzSAI,14.0,Williams Mercedes,53,+74.129s,0.0,12.0,1:28.209,1:27.836,,15.0,1:31.106,229.46,1.0,1:29.333,1:28.832,1:28.846
+2025,1256,japan,Jack DoohanDOO,15.0,Alpine Renault,53,+81.314s,0.0,19.0,1:28.877,,,19.0,1:32.685,225.551,1.0,,1:31.659,1:29.767
+2025,1256,japan,Nico HulkenbergHUL,16.0,Kick Sauber Ferrari,53,+81.957s,0.0,16.0,1:28.570,,,16.0,1:32.572,225.826,1.0,1:30.023,1:29.062,1:30.621
+2025,1256,japan,Liam LawsonLAW,17.0,Racing Bulls Honda RBPT,53,+82.734s,0.0,14.0,1:28.554,1:27.906,,13.0,1:32.043,227.124,1.0,1:29.536,1:28.559,1:29.104
+2025,1256,japan,Esteban OconOCO,18.0,Haas Ferrari,53,+83.438s,0.0,18.0,1:28.696,,,18.0,1:31.967,227.311,1.0,1:30.123,1:29.507,1:30.183
+2025,1256,japan,Gabriel BortoletoBOR,19.0,Kick Sauber Ferrari,53,+83.897s,0.0,17.0,1:28.622,,,17.0,1:32.034,227.146,1.0,1:30.147,1:29.335,1:30.134
+2025,1256,japan,Lance StrollSTR,20.0,Aston Martin Aramco Mercedes,52,+1 lap,0.0,20.0,1:29.271,,,20.0,1:32.052,227.102,2.0,1:29.758,1:30.845,1:30.267
+2025,1257,bahrain,Oscar PiastriPIA,1.0,McLaren Mercedes,57,1:35:39.435,25.0,1.0,1:31.392,1:30.454,1:29.841,1.0,1:35.140,204.784,2.0,1:34.508,1:30.505,1:31.646
+2025,1257,bahrain,George RussellRUS,2.0,Mercedes,57,+15.499s,18.0,2.0,1:31.494,1:30.664,1:30.009,3.0,1:35.518,203.974,2.0,,1:31.032,1:32.827
+2025,1257,bahrain,Lando NorrisNOR,3.0,McLaren Mercedes,57,+16.273s,15.0,6.0,1:31.107,1:30.560,1:30.267,6.0,1:35.728,203.526,2.0,1:33.204,1:30.659,1:32.314
+2025,1257,bahrain,Charles LeclercLEC,4.0,Ferrari,57,+19.679s,12.0,3.0,1:31.454,1:30.724,1:30.175,2.0,1:36.132,202.671,2.0,,1:31.045,1:32.480
+2025,1257,bahrain,Lewis HamiltonHAM,5.0,Ferrari,57,+27.993s,10.0,9.0,1:31.219,1:31.009,1:30.772,9.0,1:36.235,202.454,2.0,1:33.800,1:31.576,1:33.111
+2025,1257,bahrain,Max VerstappenVER,6.0,Red Bull Racing Honda RBPT,57,+34.395s,8.0,7.0,1:31.303,1:31.019,1:30.423,7.0,1:36.167,202.597,2.0,,1:31.330,1:33.027
+2025,1257,bahrain,Pierre GaslyGAS,7.0,Alpine Renault,57,+36.002s,6.0,5.0,1:31.462,1:30.643,1:30.216,4.0,1:36.531,201.833,2.0,1:33.442,1:31.947,1:32.974
+2025,1257,bahrain,Esteban OconOCO,8.0,Haas Ferrari,57,+44.244s,4.0,14.0,1:31.594,DNF,,14.0,1:37.098,200.655,2.0,1:34.184,1:31.870,1:33.240
+2025,1257,bahrain,Yuki TsunodaTSU,9.0,Red Bull Racing Honda RBPT,57,+45.061s,2.0,10.0,1:31.751,1:31.228,1:31.303,10.0,1:37.225,200.392,2.0,1:34.484,1:32.024,1:34.965
+2025,1257,bahrain,Oliver BearmanBEA,10.0,Haas Ferrari,57,+47.594s,1.0,20.0,1:32.373,,,20.0,1:37.303,200.232,2.0,,1:31.584,1:34.335
+2025,1257,bahrain,Kimi AntonelliANT,11.0,Mercedes,57,+48.016s,0.0,4.0,1:31.415,1:30.716,1:30.213,5.0,1:36.690,201.501,3.0,1:38.051,1:31.227,1:32.916
+2025,1257,bahrain,Alexander AlbonALB,12.0,Williams Mercedes,57,+48.839s,0.0,15.0,1:32.040,,,15.0,1:37.141,200.566,2.0,1:33.928,1:31.696,1:33.753
+2025,1257,bahrain,Isack HadjarHAD,13.0,Racing Bulls Honda RBPT,57,+56.314s,0.0,12.0,1:31.591,1:31.271,,12.0,1:36.952,200.957,2.0,1:34.667,1:31.238,1:33.023
+2025,1257,bahrain,Jack DoohanDOO,14.0,Alpine Renault,57,+57.806s,0.0,11.0,1:31.414,1:31.245,,11.0,1:36.682,201.518,2.0,1:34.396,1:31.788,1:33.347
+2025,1257,bahrain,Fernando AlonsoALO,15.0,Aston Martin Aramco Mercedes,57,+60.340s,0.0,13.0,1:31.634,1:31.886,,13.0,1:37.906,198.999,2.0,,1:31.825,1:33.548
+2025,1257,bahrain,Liam LawsonLAW,16.0,Racing Bulls Honda RBPT,57,+64.435s,0.0,17.0,1:32.165,,,17.0,1:37.380,200.073,2.0,1:34.397,1:31.706,1:33.370
+2025,1257,bahrain,Lance StrollSTR,17.0,Aston Martin Aramco Mercedes,57,+65.489s,0.0,19.0,1:32.283,,,19.0,1:38.064,198.678,2.0,1:35.116,1:32.382,1:34.363
+2025,1257,bahrain,Gabriel BortoletoBOR,18.0,Kick Sauber Ferrari,57,+66.872s,0.0,18.0,1:32.186,,,18.0,1:38.006,198.795,2.0,1:34.628,1:31.772,1:34.518
+2025,1257,bahrain,Carlos SainzSAI,,Williams Mercedes,45,DNF,0.0,8.0,1:31.591,1:30.844,1:30.680,8.0,1:36.954,200.953,3.0,,1:31.623,1:33.092
+2025,1257,bahrain,Nico HulkenbergHUL,,Kick Sauber Ferrari,,DSQ,0.0,16.0,1:32.067,,,16.0,1:37.338,200.16,2.0,1:34.262,1:32.496,1:34.636
+2025,1257,bahrain,Note - Lawson received a five-second time penalty for causing a collision and a 10-second time penalty for causing a collision. Doohan received a five-second time penalty for track limit infringements. Hulkenberg disqualified for a technical infringement.,,Note - Lawson received a five-second time penalty for causing a collision and a 10-second time penalty for causing a collision. Doohan received a five-second time penalty for track limit infringements. Hulkenberg disqualified for a technical infringement.,Note - Lawson received a five-second time penalty for causing a collision and a 10-second time penalty for causing a collision. Doohan received a five-second time penalty for track limit infringements. Hulkenberg disqualified for a technical infringement.,Note - Lawson received a five-second time penalty for causing a collision and a 10-second time penalty for causing a collision. Doohan received a five-second time penalty for track limit infringements. Hulkenberg disqualified for a technical infringement.,,,,,,,,,0.0,,,
+2025,1258,saudi-arabia,Pierre GaslyGAS,,,,,,9.0,,,,,,,,1:29.239,1:29.106,1:28.625
+2025,1258,saudi-arabia,Lando NorrisNOR,,,,,,10.0,,,,,,,,1:29.246,1:28.267,1:27.489
+2025,1258,saudi-arabia,Charles LeclercLEC,,,,,,4.0,,,,,,,,1:29.309,1:28.749,1:28.372
+2025,1258,saudi-arabia,Oscar PiastriPIA,,,,,,2.0,,,,,,,,1:29.341,1:28.430,1:27.513
+2025,1258,saudi-arabia,Alexander AlbonALB,,,,,,11.0,,,,,,,,1:29.606,1:29.220,1:28.389
+2025,1258,saudi-arabia,George RussellRUS,,,,,,3.0,,,,,,,,1:29.618,1:28.973,1:28.116
+2025,1258,saudi-arabia,Carlos SainzSAI,,,,,,6.0,,,,,,,,1:29.779,1:28.942,1:28.570
+2025,1258,saudi-arabia,Lewis HamiltonHAM,,,,,,7.0,,,,,,,,1:29.815,1:29.371,1:28.780
+2025,1258,saudi-arabia,Max VerstappenVER,,,,,,1.0,,,,,,,,1:29.818,1:28.547,1:28.334
+2025,1258,saudi-arabia,Yuki TsunodaTSU,,,,,,8.0,,,,,,,,1:29.821,1:28.963,1:28.670
+2025,1258,saudi-arabia,Liam LawsonLAW,,,,,,12.0,,,,,,,,1:29.907,1:29.488,1:28.861
+2025,1258,saudi-arabia,Nico HulkenbergHUL,,,,,,18.0,,,,,,,,1:29.916,1:29.193,1:29.220
+2025,1258,saudi-arabia,Kimi AntonelliANT,,,,,,5.0,,,,,,,,1:29.934,1:29.242,1:28.679
+2025,1258,saudi-arabia,Fernando AlonsoALO,,,,,,13.0,,,,,,,,1:29.976,1:29.662,1:28.888
+2025,1258,saudi-arabia,Isack HadjarHAD,,,,,,14.0,,,,,,,,1:30.011,1:29.306,1:28.769
+2025,1258,saudi-arabia,Jack DoohanDOO,,,,,,17.0,,,,,,,,1:30.183,1:29.912,1:28.898
+2025,1258,saudi-arabia,Lance StrollSTR,,,,,,16.0,,,,,,,,1:30.583,1:30.007,1:29.478
+2025,1258,saudi-arabia,Oliver BearmanBEA,,,,,,15.0,,,,,,,,1:30.595,1:29.754,1:28.989
+2025,1258,saudi-arabia,Esteban OconOCO,,,,,,19.0,,,,,,,,1:31.029,1:30.019,1:29.336
+2025,1258,saudi-arabia,Gabriel BortoletoBOR,,,,,,20.0,,,,,,,,1:31.038,,1:29.410
