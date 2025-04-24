@@ -2,136 +2,129 @@ import os
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
-import urllib3
 from io import StringIO
+import urllib3
+from datetime import date
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # === CONFIGURATION ===
-CURRENT_YEAR = 2025
-GP_LIST = [
-    'australia', 'china', 'japan', 'bahrain', 'saudi-arabia', 'miami', 'emilia-romagna', 'monaco',
-    'spain', 'canada', 'austria', 'great-britain', 'belgium', 'hungary', 'netherlands',
-    'italy', 'azerbaijan', 'singapore', 'united-states', 'mexico', 'brazil', 'las-vegas',
-    'qatar', 'abu-dhabi'
+today = date.today()
+
+races_2025_schedule = [
+    ('australia', date(2025, 3, 15)),
+    ('china', date(2025, 3, 22)),
+    ('japan', date(2025, 3, 29)),
+    ('bahrain', date(2025, 4, 5)),
+    ('saudi-arabia', date(2025, 4, 20)),
+    ('miami', date(2025, 5, 4)),
+    ('emilia-romagna', date(2025, 5, 18)),
+    ('monaco', date(2025, 5, 25)),
+    ('canada', date(2025, 6, 8)),
+    ('spain', date(2025, 6, 22)),
+    ('austria', date(2025, 6, 29)),
+    ('great-britain', date(2025, 7, 6)),
+    ('hungary', date(2025, 7, 20)),
+    ('belgium', date(2025, 7, 27)),
+    ('netherlands', date(2025, 8, 31)),
+    ('italy', date(2025, 9, 7)),
+    ('azerbaijan', date(2025, 9, 21)),
+    ('singapore', date(2025, 10, 5)),
+    ('united-states', date(2025, 10, 19)),
+    ('mexico', date(2025, 10, 26)),
+    ('brazil', date(2025, 11, 9)),
+    ('las-vegas', date(2025, 11, 22)),
+    ('qatar', date(2025, 11, 30)),
+    ('abu-dhabi', date(2025, 12, 5)),
 ]
-START_RACE_ID = 1254  # Australia 2025
-GP_ID_MAP = {race: START_RACE_ID + i for i, race in enumerate(GP_LIST)}
 
-SESSIONS = ['practice/1', 'practice/2', 'practice/3', 'qualifying', 'race-result', 'pit-stop-summary', 'fastest-laps']
+races_2025 = [(i + 1254, name) for i, (name, d) in enumerate(races_2025_schedule) if d <= today]
 
-# === DÉFINITION DES CHEMINS ===
+SESSIONS_CONFIG = {
+    'practice/1': {'columns': ['Pos', 'Driver', 'Car', 'Time'], 'rename': {'Time': 'Practice1Time', 'Pos': 'Practice1_Position'}},
+    'practice/2': {'columns': ['Pos', 'Driver', 'Car', 'Time'], 'rename': {'Time': 'Practice2Time', 'Pos': 'Practice2_Position'}},
+    'practice/3': {'columns': ['Pos', 'Driver', 'Car', 'Time'], 'rename': {'Time': 'Practice3Time', 'Pos': 'Practice3_Position'}},
+    'qualifying': {'columns': ['Pos', 'Driver', 'Car', 'Q1', 'Q2', 'Q3'], 'rename': {'Pos': 'Quali_Position'}},
+    'race-result': {'columns': ['Pos', 'Driver', 'Car', 'Laps', 'Pts'], 'rename': {'Pos': 'Race_Position'}},
+    'pit-stop-summary': {'columns': ['Driver', 'Stops'], 'rename': {'Stops': 'PitStopCount'}},
+    'fastest-laps': {'columns': ['Pos', 'Driver', 'Car', 'Time', 'Avg speed'], 'rename': {'Pos': 'FastestLap_Position', 'Time': 'FastestLap_Time'}}
+}
+
 BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-PROCESSED_PATH = os.path.join(BASE_DIR, "data", "processed", "f1_driver_race_results.csv")
+DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "f1_driver_race_results.csv")
 
-
-def get_current_gp():
-    today = datetime.today().date()
-    calendar = {
-        'saudi-arabia': datetime(2025, 4, 19).date(),
-        'miami': datetime(2025, 5, 2).date(),
-        'emilia-romagna': datetime(2025, 5, 16).date(),
-        'monaco': datetime(2025, 5, 25).date(),
-        'spain': datetime(2025, 6, 8).date(),
-        'canada': datetime(2025, 6, 15).date(),
-        'austria': datetime(2025, 6, 29).date(),
-        'great-britain': datetime(2025, 7, 6).date(),
-        'hungary': datetime(2025, 7, 20).date(),
-        'belgium': datetime(2025, 7, 27).date(),
-        'netherlands': datetime(2025, 8, 31).date(),
-        'italy': datetime(2025, 9, 7).date(),
-        'azerbaijan': datetime(2025, 9, 21).date(),
-        'singapore': datetime(2025, 10, 5).date(),
-        'united-states': datetime(2025, 10, 19).date(),
-        'mexico': datetime(2025, 10, 26).date(),
-        'brazil': datetime(2025, 11, 9).date(),
-        'las-vegas': datetime(2025, 11, 22).date(),
-        'qatar': datetime(2025, 11, 30).date(),
-        'abu-dhabi': datetime(2025, 12, 5).date(),
-    }
-    for gp, date in calendar.items():
-        if today <= date:
-            return gp
-    return None
+COLUMN_ORDER = [
+    "year", "race_id", "race_name", "Driver", "Car",
+    "Practice1_Position", "Practice1Time",
+    "Practice2_Position", "Practice2Time",
+    "Practice3_Position", "Practice3Time",
+    "Quali_Position", "Q1", "Q2", "Q3",
+    "Race_Position", "Laps", "Pts", "Avg speed",
+    "PitStopCount", "FastestLap_Position", "FastestLap_Time"
+]
 
 
 def scrape_table(url):
-    response = requests.get(url, verify=False)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    table = soup.find('table')
-    if table is None:
-        return None
-    df = pd.read_html(StringIO(str(table)))[0]
-    return df
+    try:
+        r = requests.get(url, verify=False, timeout=10)
+        soup = BeautifulSoup(r.content, 'html.parser')
+        table = soup.find("table")
+        if table:
+            df = pd.read_html(StringIO(str(table)))[0]
+            return df
+    except Exception as e:
+        print(f"❌ Erreur scraping {url} : {e}")
+    return None
 
 
-def update_driver_results():
-    current_gp = get_current_gp()
-    if current_gp is None:
-        print("Aucune course à venir trouvée.")
-        return
-
-    race_id = GP_ID_MAP[current_gp]
-    print(f"🟢 Course en cours : {current_gp} (ID {race_id})")
-
-    session_data = {
-        "practice/1": ("Practice1Time", "Time"),
-        "practice/2": ("Practice2Time", "Time"),
-        "practice/3": ("Practice3Time", "Time"),
-        "qualifying": ("QualiPosition", "Pos"),
-        "race-result": ("FinalPosition", "Pos"),
-        "fastest-laps": ("FastestLapTime", "Time"),
-        "pit-stop-summary": ("PitStopCount", "Stops")
-    }
-
-    # Charger les données existantes
-    if os.path.exists(PROCESSED_PATH):
-        df_base = pd.read_csv(PROCESSED_PATH)
+def update_results():
+    if os.path.exists(DATA_PATH):
+        full_df = pd.read_csv(DATA_PATH)
     else:
-        df_base = pd.DataFrame()
+        full_df = pd.DataFrame(columns=COLUMN_ORDER)
 
-    for session, (target_col, source_col) in session_data.items():
-        url = f"https://www.formula1.com/en/results/{CURRENT_YEAR}/races/{race_id}/{current_gp}/{session}"
-        print(f"Scraping {session} → {url}")
-        df = scrape_table(url)
+    new_data = []
 
-        if df is None or "Driver" not in df.columns or source_col not in df.columns:
-            print(f"Aucune donnée trouvée pour {session}.")
-            continue
+    for race_id, race_name in races_2025:
+        race_dfs = []
 
-        df = df[["Driver", source_col]].copy()
-        df.columns = ["Driver", target_col]
-        df["race_id"] = race_id
-        df["race_name"] = current_gp
-        df["year"] = CURRENT_YEAR
+        for session, info in SESSIONS_CONFIG.items():
+            url = f"https://www.formula1.com/en/results/2025/races/{race_id}/{race_name}/{session}"
+            print(f"🔎 Scraping {url}")
+            df = scrape_table(url)
 
-        for _, row in df.iterrows():
-            mask = (
-                (df_base["Driver"] == row["Driver"]) &
-                (df_base["race_id"] == race_id) &
-                (df_base["race_name"] == current_gp) &
-                (df_base["year"] == CURRENT_YEAR)
-            )
+            if df is None or "Driver" not in df.columns:
+                print("  ➤ Aucune donnée.")
+                continue
 
-            if mask.any():
-                df_base.loc[mask, target_col] = row[target_col]
-            else:
-                new_row = {
-                    "Driver": row["Driver"],
-                    "race_id": race_id,
-                    "race_name": current_gp,
-                    "year": CURRENT_YEAR,
-                    target_col: row[target_col]
-                }
-                df_base = pd.concat([df_base, pd.DataFrame([new_row])], ignore_index=True)
+            df = df[[col for col in info['columns'] if col in df.columns]]
+            df = df.rename(columns=info['rename'])
+            df["race_id"] = race_id
+            df["race_name"] = race_name
+            df["year"] = 2025
 
-    print("Aperçu des données mises à jour :")
-    print(df_base[df_base["race_id"] == race_id].tail())
+            if 'Car' in df.columns and any('Car' in d.columns for d in race_dfs):
+                df = df.drop(columns=['Car'])
 
-    df_base.to_csv(PROCESSED_PATH, index=False)
-    print(f"✅ Données mises à jour dans {PROCESSED_PATH}")
+            race_dfs.append(df)
+
+        if race_dfs:
+            merged = race_dfs[0]
+            for other in race_dfs[1:]:
+                merged = pd.merge(merged, other, on=["Driver", "race_id", "race_name", "year"], how="outer")
+            new_data.append(merged)
+
+    if new_data:
+        update_df = pd.concat(new_data, ignore_index=True)
+        combined_df = pd.concat([full_df, update_df], ignore_index=True)
+        combined_df.drop_duplicates(subset=["Driver", "race_id", "race_name", "year"], keep="last", inplace=True)
+
+        combined_df = combined_df[[col for col in COLUMN_ORDER if col in combined_df.columns]]
+        combined_df.to_csv(DATA_PATH, index=False)
+        print(f"\n✅ Données mises à jour dans {DATA_PATH}")
+    else:
+        print("\n❌ Aucune nouvelle donnée récupérée.")
 
 
 if __name__ == "__main__":
-    update_driver_results()
+    update_results()
